@@ -1,6 +1,14 @@
-fastapi
+fastapi~=0.112.2
 uvicorn
 python-dotenv
 sentence-transformers
 faiss-cpu
 openai
+psycopg2-binary
+joblib~=1.2.0
+sqlalchemy~=2.0.39
+pydantic~=1.10.12
+pdfplumber~=0.11.6
+pandas~=2.0.1
+scikit-learn~=1.3.0
+psycopg2-binary
