@@ -26,13 +26,16 @@ def retrieve_context(question: str, top_k=1) -> str:
     return "\n\n".join([documents[i] for i in I[0]])
 
 
-def generate_with_gemini(context: str, question: str, grade: int) -> str:
+def generate_with_gemini(context: str, question: str, grade: int, history_text: str) -> str:
     """
       Generates a response using the Gemini 2.0 Flash model.
       """
     prompt = f"""
-    Sen bir lise {grade}. öğretmenisin. Aşağıdaki konu bilgisine göre, öğrencinin sorusuna doğrudan konuyu açıklayarak başla. Yanıtında selamlama, iyi dilekler veya sohbeti devam ettirme amacı taşıyan ifadeler kullanma. Açıklaman basit ve net olsun.
-
+    Sen bir lise {grade}. sınıf öğretmenisin. Aşağıdaki konu bilgisine ve öğrencinin daha önceki konuşmalarına göre, öğrencinin yeni sorusuna doğrudan konuyu açıklayarak başla. Yanıtında selamlama, iyi dilekler veya sohbeti devam ettirme amacı taşıyan ifadeler kullanma. Açıklaman basit ve net olsun.
+    
+    Önceki Konuşmalar:
+    {history_text if history_text else "Yok"}
+    
     Konu Bilgisi:
     {context}
 

@@ -15,10 +15,10 @@ SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base.metadata.create_all(bind=engine)
 app = FastAPI()
 
+
 @app.get("/")
 def home():
     return {"message": "TutorBot backend is running!"}
-
 
 
 def get_db():
@@ -27,6 +27,7 @@ def get_db():
         yield db
     finally:
         db.close()
+
 
 # Kullanıcı listesini getirme
 @app.get("/users/", response_model=List[UserRead])
@@ -41,7 +42,6 @@ def create_user(user: UserCreate, db: Session = Depends(get_db)):
     db.commit()
     db.refresh(db_user)
     return db_user
-
 
 
 # Soru kaydetme (answer parametresiz de olabilir, cevap sonradan eklenebilir)
@@ -59,15 +59,32 @@ def create_question(question: QuestionCreate, db: Session = Depends(get_db)):
 
 @app.post("/ask", response_model=AnswerResponse)
 def ask_question(req: QuestionRequest, db: Session = Depends(get_db)):
+    user = db.query(User).filter(User.id == req.user_id).first()
     question = req.question
     intent = detect_intent(question)
+
+    if intent == "selam":
+        return AnswerResponse(
+            question=req.question,
+            intent="greeting",
+            answer=(
+                "Hoş geldiniz! Bu platform, lise öğrencilerine seviyelerine uygun şekilde derslerinde yardımcı olmak için tasarlanmıştır. "
+                "Dilediğiniz soruyu sorabilir, seviyenize uygun net ve açıklayıcı yanıtlar alabilirsiniz. "
+                "Sorularınız kaydedilir ve daha iyi bir deneyim için önceki konuşmalarınızdan da faydalanılır."
+            ),
+            context=""
+        )
+
     context = retrieve_context(question)
 
     # Kullanıcıyı bul
     user = db.query(User).filter(User.id == req.user_id).first()
     grade = user.grade if user else 9  # Default 9. sınıf
 
-    answer = generate_with_gemini(context, question, grade)
+    last_questions = get_last_questions_for_user(db, user.id) if user else []
+    history_text = "\n".join([f"Soru: {q.question}\nYanıt: {q.answer or '[Henüz verilmedi]'}" for q in last_questions])
+
+    answer = generate_with_gemini(context, question, grade, history_text)
     # Soru ve cevabı veritabanına kaydet
     if user:
         create_question_entry(db, user_id=user.id, question=question, answer=answer)
@@ -78,6 +95,7 @@ def ask_question(req: QuestionRequest, db: Session = Depends(get_db)):
         answer=answer,
         context=context
     )
+
 
 # Soru listesini getirme
 @app.get("/questions/", response_model=List[QuestionRead])
@@ -94,3 +112,7 @@ def create_question_entry(db, user_id: int, question: str, answer: str = None):
     db.commit()
     db.refresh(db_question)
     return db_question
+
+
+def get_last_questions_for_user(db, user_id, n=3):
+    return db.query(Question).filter(Question.user_id == user_id).order_by(Question.created_at.desc()).limit(n).all()
