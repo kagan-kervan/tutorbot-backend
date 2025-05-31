@@ -8,7 +8,7 @@ import pickle
 # It's recommended to set your API key as an environment variable for security.
 # If the environment variable is not set, the code will prompt you to enter it.
 
-genai.configure(api_key="AIzaSyD4hBCFbywB0b_IxIECE4KAK2S2pccSQ88")
+genai.configure(api_key="API_KEY")
 
 # --- Model and Index Loading ---
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
