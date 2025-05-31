@@ -3,7 +3,7 @@
 #How To Run:
 1- Install all the requirements in the requirements.txt file.
 
-2- Install PostGreSQL and create a new database named "TutorBot".
+2- Install PostGreSQL and create a new database named "tutorbot".
 
 3- Change the database connection url in the config.py as "DATABASE_URL = os.environ.get(
     "DATABASE_URL",
