@@ -1,0 +1,102 @@
+BİYOLOJİ
+KONU
+EŞ BASKINLIK, ÇOK ALELLİLİK, KAN GRUPLARININ KALITIMI
+ÖZETİ
+TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT
+EŞ BAŞKINLIK (KODOMİNANTLIK)
+Bir karakteri belirleyen farklı alellerin fenotipteki etkilerinin eşit olmasına eş baskınlık denir.
+• Aleller arasında baskınlık, çekiniklik yoktur.
+• Heterozigot durumda her alel, etkisini fenotipte gösterir.
+• İnsandaki AB ve MN kan grupları bu duruma örnek verilebilir.
+MN kan grubu sisteminde,
+• MM genotipli bireyler M kan grubu olarak adlandırılır.
+• NN genotipli bireyler N kan grubudur.
+• MN genotipli bireyler MN kan grubuna sahiptir.
+• MN kan grubu sisteminde M, N ve MN olmak üzere üç farklı fenotip ortaya çıkar.
+P: MM x NN
+G: M N
+F : MN
+1
+F : Genotip oranı %100
+1
+F : Fenotip oranı %100
+1
+F x F MN x MN
+1 1
+G: 1/2 M 1/2 N x 1/2 M 1/2 N
+F: 1/4MM 1/4MN 1/4MN 1/4NN
+2
+Genotip oranı: 1:2:1 1/4MM 2/4MN 1/4NN
+Genotip çeşidi: 3 (MM, MN, NN )
+Fenotip oranı: 1:2:1 1/4M 2/4MN 1/4N
+Fenotip çeşidi: 3 (M, MN, N)
+Fenotip Genotip Alyuvar zarındaki antijen
+M MM M Antijeni
+N NN N Antijeni
+MN MN M ve N Antijeni
+HATIRLAYALIM
+M ve N antijenlerine karşı insan serumunda antikorlar meydana gelmediğinden kan naklinde herhangi bir sorun söz
+konusu olmaz.
+BİYOLOJİ - TYT MEBİ KONU ÖZETLERİ 11
+
+EŞ BASKINLIK, ÇOK ALELLİLİK, KAN GRUPLARININ KALITIMI
+ÇOK ALELLİLİK
+Bir karakterin ortaya çıkmasında etkili olan alel çeşidinin ikiden fazla olmasıdır.
+• Tavşanlarda kürk rengi ve insanlarda kan gruplarının kalıtımı çok alelliliğe örnektir.
+• Kan gruplarını belirleyen 3 farklı alel vardır (A, B ve O).
+• A ve B alelleri eş baskın, O aleli ise çekiniktir.
+• Bir karakterle ilgili alel çeşidi ne kadar fazla olursa olsun diploit canlı bu alellerden en fazla ikisine, haploit canlı ise
+bir tanesine sahiptir.
+• Kan grubunu ortaya çıkaran aleller, vücut kromozomları (otozom kromozomları) üzerinde taşınır.
+KAN GRUPLARININ KALITIMI
+Kan gruplarını belirleyen 3 farklı alel (A, B ve O) olduğundan kalıtımında farklı genotipler oluşur.
+Genotip çeşitlerini bulmak için,
+• n.(n+1)/2 formülü kullanılır.
+• Kan gruplarında 3 alel bulunduğu için formülde n yerine 3 yazılır. 3.(3+1)/2 = 6 bulunur.
+Genotip
+Fenotip ( Kan grubu) Alyuvar Zarındaki Antijen Plazmadaki Antikor
+Homozigot Heterozigot
+A AA AO A anti-B
+B BB BO B anti-A
+AB � AB A ve B Yok
+O OO � Yok anti-A ve anti-B
+• Genotipler AA, AO, BB, BO, AB ve OO’dır.
+• Fenotipler A, B, AB ve O’dır.
+Alyuvar zarında bulunan ve kan gruplarını belirleyen özel maddelere antijen denir. Kan grubunda gruplandırmalar, alyuvar
+hücrelerinin zarında bulunan A ve B olarak adlandırılan antijenlere göre yapılır.
+• A kan grubuna sahip bireylerde A antijeni bulunur.
+• B kan grubuna sahip bireylerde B antijeni bulunur.
+• AB kan grubuna sahip bireylerde hem A antijeni hem de B antijeni bulunur.
+• O kan grubuna sahip bireylerin alyuvar zarında ise A antijeni ve B antijeni bulunmaz.
+• Alyuvar zarında bulunan ve bir çeşit antijen olan Rh faktörü kan alışverişlerinde dikkat edilmesi gereken bir unsurdur.
+• Rh faktörünü belirleyen alel “R ” simgesiyle ifade edilir.
+• Kanlarında Rh antijeni olan insanlar Rh+ (pozitif), olmayanlar ise Rh� (negatif) kan grubuna sahiptir.
+• Rh+ kan grubuna sahip bireylerin genotipi “RR ” ya da “Rr ” şeklinde ifade edilmiştir.
+• Rh� kan grubuna sahip bireylerin genotipi ise “rr” dir.
+Genotip
+Fenotip ( Kan grubu) Alyuvar Zarındaki Antijen Plazmadaki Antikor
+Homozigot Heterozigot
+Rh+ RR Rr Rh antijeni Yok
+Rh antijeni ile ilk
+Rh� rr � Yok
+karşılaşmada oluşur.
+2 MEBİ KONU ÖZETLERİ BİYOLOJİ - TYT
+
+EŞ BASKINLIK, ÇOK ALELLİLİK, KAN GRUPLARININ KALITIMI
+Rh Uyuşmazlığı (Kan Uyuşmazlığı)
+Annenin kan grubunun Rh�, babanın kan grubunun Rh+ ve fetüsün kan grubunun Rh+ olduğu durumlarda kan uyuşmazlı-
+ğından söz edilir. Bu duruma tıp dilinde eritroblastosis fetalis (eritroblastozis fetalis) adı verilmektedir.
+Hamilelik süresince normalde Rh (�) bir annenin kanı ile Rh (+) bebeğin
+kanı birbirine karışmaz. Gebelik sırasında oluşan kanamalarda ve do-
+ğum sırasında bebeğin kanı anne kanına karışabilir.
+Rh antikoru
+Rh (+) kan anne kanına karıştığında annenin bağışıklık sistemi anti Rh
+antikoru üretir. İlk gebelikte anne kanında bebeğe zarar verecek ölçüde
+anti Rh antikoru üretilemediğinden bir problem oluşturmaz.
+Sonraki gebeliklerde; eğer çocuğun kan grubu yine Rh (+) olursa, an-
+nenin kanında daha önceki gebeliğe bağlı olarak oluşmuş anti Rh an-
+tikorları plasent adan bebeğe geçerek Rh (+) antijeni taşıyan alyuvarla-
+rın parçalanmasına neden olur.Bu durumda bebekte kansızlık ve buna
+bağlı sağlık sorunları ortaya çıkar.
+BİYOLOJİ - TYT MEBİ KONU ÖZETLERİ 33
+

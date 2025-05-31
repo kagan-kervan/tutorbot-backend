@@ -1,0 +1,145 @@
+BİYOLOJİ
+KONU
+BAKTERİLER ÂLEMİ, ARKELER ÂLEMİ
+ÖZETİ
+TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT
+BAKTERİLER ÂLEMİ
+Bakteriler, prokaryot hücre yapısına sahip mikroorganizmalardır.
+Bakterinin hücresel yapısı
+Bakterilerde Bulunan Hücresel Yapılar ve Görevleri
+Sitoplazma: Sıvı karakterde olup yaklaşık %80’i sudan oluşur. İçerisinde nükleik asitler, enzimler, aminoasitler, karbohid-
+ratlar, lipitler ve inorganik maddeler bulunur.
+Pilus: Bazı bakteri türlerinde hücre duvarının dışında bulunan kısa uzantılara pilus adı verilir. Pilus, aynı türden iki bakteri
+arasında sitoplazmik köprü oluşturarak bakteriler arasında DNA aktarımını sağlar (konjugasyon).
+Kapsül: Bazı bakterilerde bulunan kapsül bakterilerin birbirine tutunmasını ve yaşadıkları ortama yapışmasını sağlar.
+Ayrıca bakterinin dayanıklılığını artırır ve bakterilerde su kaybını önler.
+DNA: Bakterilerin genetik materyalleri tek bir dairesel kromozomdan oluşur. Bakterilerde zarla çevrili çekirdek olmadığı için
+kromozom sitoplazmada yer alır. DNA; hücrenin büyümesi, bölünmesi gibi hayati olayları kontrol eder.
+Hücre Duvarı: Bakterilerin hücre zarlarının üzerinde kısa peptid zincirleriyle bağlanmış, polisakkarit içeren peptidoglikan
+yapılı hücre duvarı bulunur. Hücre duvarı bakteriyi dış etkilerden korur ve bakteriye şekil verir.
+Ribozom: Bakterilerde hücresel yapı olarak yalnızca ribozom bulunur. Sitoplazma içerisinde dağınık olarak bulunan ribo-
+zomlar, bakterinin ihtiyacı olan proteinleri sentezler.
+Hücre Zarı: İkili fosfolipid katmanından oluşmuştur. Hücre zarı, seçici geçirgen özellik gösterir ve madde alışverişinde
+görev alır.
+Plazmit: Halkasal yapıdan daha küçük DNA parçalarıdır. Gen aktarımı amacıyla kullanıldığı için plazmite sahip bakteriler-
+den biyokimyada, genetik mühendisliğinde ve moleküler biyoloji ile ilgili çalışmalarda yararlanılır.
+Kamçı: Küre şeklindeki bakteriler hariç tüm bakterilerde bulunan kamçı hareket etmeyi sağlayan uzun uzantılardır.
+BİYOLOJİ - TYT MEBİ KONU ÖZETLERİ 11
+
+BAKTERİLER ÂLEMİ, ARKELER ÂLEMİ
+Bakteriler, uyum yetenekleri yüksek olduğu için hemen hemen her ortamda yaşayabilmektedir. Bakterilerin bazı türleri
+faydalı, bazı türleri ise zararlıdır. Bakteriler beslenme bakımından ototrof veya heterotrof olabilir. Bazı bakteriler parazit
+yaşar. Ototrof bakteriler, fotosentez veya kemosentez yoluyla besin üretir. Tüm bakterilerde depo polisakkarit glikojendir.
+Bakterilerin ayrıştırıcı olanları organik maddelerin inorganik maddelere dönüşümünü sağladığından doğadaki madde dön-
+güsünde çok önemlidir.
+Bakteri Hücrede büyüme durur. DNA eşlenir.
+Ayrılımı
+sağlayan
+yapı Endospor oluşturan gen aktive olur.
+Spor kılıfı oluşumu başlar.
+Öncül
+spor
+Ana hücre Peptidoglikan yapılı hücre duvarı oluşur.
+Spor kılıfı oluşur.
+Endospor
+Ana hücre bozulur. Endospor serbest kalır.
+Endospor oluşumu
+Bazı bakteriler, olumsuz ortam şartlarında (kuraklık, besin kıtlığı, radyasyon, zehirli maddeler gibi) endospor oluşturur.
+Endosporlar, çevresel değişimlere oldukça dayanıklı olup uzun süre canlı kalabilir. Ortam şartları uygun hâle geldiği zaman
+endospor durumu sona erer.
+Bakterilerde üreme, DNA’nın eşlenmesinden sonra ikiye bölünerek gerçekleşir. Bakteriler, eşeyli üreme ile çoğalmadıkları
+hâlde genetik çeşitliliği oldukça fazla olan âlemdir. Bu çeşitlilik mutasyon, konjugasyon gibi olaylarla sağlanır.
+Konjugasyonda DNA (plazmit), bakteri hücresinden diğer bir bakteri hücresine tek yönlü olarak aktarılır. Aktarma işlemi
+için geçici olarak stoplazmik köprü oluşturulur. DNA’nın aktarıldığı bakteri hücresi, kalıtsal açıdan kendisinde olmayan bir
+özellik kazanmış olur ve genetik çeşitlilik artar. Konjugasyon, aynı türe ait bakteriler arasında meydana gelir. Bakteri kon-
+jugasyonu sırasında birey sayısında artış meydana gelmediğinden çoğalma olarak kabul edilmez.
+Bakterilerde eşeysiz üreme basit ikiye bölünme yöntemiyle gerçekleşir. İçinde besin bulunan kültür ortamında bakteriler
+yaklaşık 20 dakikada bir bölünebilir.
+Bakterilerin oksijenli solunum, oksijensiz solunum ve fermantasyon yapabilen türleri vardır. Fermantasyon yapabilen bak-
+teriler, son ürün olarak etil alkol, laktik asit gibi ürünler oluşturur. Oksijenli solunum ve fotosentez yapan bakteri türlerinde
+hücre zarı, içe doğru kıvrımlar yapar. Bu kıvrımlarda enzimler ve ETS (elektron taşıma sistemi) elemanları bulunur. ATP
+(adenozin trifosfat) kıvrımlı zarlarda sentezlenir.
+Bakteriler; mikroskop altında genellikle küre, çomak, virgül ya da spiral şeklinde görülür.
+Küre Çomak Spiral
+Virgül
+Şekillerine göre bakteriler
+• Hastalıklara neden olan bakterilere patojen adı verilir. Tüberküloz (verem), tetanos, ülser, menenjit (beyin zarının
+iltihaplanması) gibi hastalıklar bakteri kaynaklıdır. Patojen bakteriler ürettikleri toksin ile organizmaya zarar verir.
+2 MEBİ KONU ÖZETLERİ BİYOLOJİ - TYT
+
+BAKTERİLER ÂLEMİ, ARKELER ÂLEMİ
+Bakterilerin Biyolojik ve Ekonomik Önemi
+Fotosentez yapan bazı bakteriler, atmosfere yüksek oranda oksijen salarken bazıları atmosferde bulunan serbest azot
+gazının ve karbondioksitin organik bileşiklerin yapısına katılmasını sağlar.
+Bazı bakteriler organik atıkları inorganik bileşenlerine ayrıştırarak madde döngüsünde, toprağın - suyun zenginl eşmesinde
+ve kirleticilerden arınmasında etkilidir.
+Ayrıştırıcı bakterilerden yararlanarak su arıtma işlemi
+Bakteriler hızlı çoğaldıkları için gen nakillerinde onlardan yararlanılır. İnsülin gibi bazı hormonların, antibiyotiklerin, aşıların,
+serumların ve kanser tedavisinde kullanılan bazı ilaçların üretilmesinde kullanılır.
+Bakterilerden yararlanılarak ilaç üretimi
+• Bazı otobur canlıların sindirim sisteminde yaşayan yararlı bakteriler, selülozun sindirimine yardımcı olur. İnsanların
+kalın bağırsaklarında yaşayan bakteriler, B ve K vitaminlerini üretir.
+• Bakteriler, mayalanma yapabilme özelliklerine sahip oldukları için gıda sanayisinde kullanılır. Sütün yoğurda ya da
+peynire, glikozun etil alkole ya da sirkeye dönüşmesinde ve turşu yapımında bakterilerden yararlanılır.
+BİYOLOJİ - TYT MEBİ KONU ÖZETLERİ 33
+
+BAKTERİLER ÂLEMİ, ARKELER ÂLEMİ
+ARKELER ÂLEMİ
+1970’lerde mikrobiyologların gen dizilimlerini ve küçük ribozo- Kapsül
+Hücre duvarı
+mal RNA parçalarını kullanarak prokaryotları karşılaştırmaları
+sonucunda arkeler metabolik, hücresel ve genetik özellikleri Pilus
+dikkate alınarak bakterilerden ayrılmış ve ayrı bir âlem olarak Sitoplazma
+incelenmeye başlanmıştır. Hücre zarı
+Arkeler, bazı özellikleri bakımından ökaryotlara benzeyen tek Plazmit
+hücreli ve prokaryot hücre yapısına sahip mikroskobik orga-
+DNA
+nizmalardır.
+Hastalık yapıcı ve endospor oluşturan formları yoktur. Ribozom
+Kamçı
+Arkelerde Bulunan Hücresel Yapılar ve Görevleri Arkenin hücresel yapısı
+Sitoplazma: Sıvı karakterde olup yaklaşık %80’i sudan oluşur. İçerisinde nükleik asitler, enzimler, aminoasitler, karbohid-
+ratlar, lipitler, inorganik maddeler bulunur.
+Pilus: Pilus, aynı türden iki arke arasında sitoplazmik köprü oluşturarak arkeler arasında DNA aktarımını sağlar (konjugasyon).
+DNA: DNA’sı üzerinde protein kılıfı bulunur. Ökaryot hücrelerde olduğu gibi DNA histon proteinlerine sarılıdır. Hücrenin
+büyümesi, bölünmesi gibi hayati olayları kontrol eder.
+Hücre zarı: İkili fosfolipid katmanından oluşmuştur. Seçici geçirgen özellik gösterir ve madde alışverişinde görev alır.
+Kapsül: Arkelerin birbirine tutunmalarını ve yaşadıkları ortama yapışmasını sağlayan yapı aynı zamanda arkelerin
+dayanıklılığını da artırır.
+Kamçı: Hareket etmeyi sağlayan uzantıdır.
+Hücre duvarı: Pseudopeptidoglikan yapıda olup arkeleri dış etkilerden korur.
+Ribozom: Ökaryot hücrelerin ribozomuna benzer yapıda olduğu için antibiyotiklerden etkilenmezler.
+Arkeler, bakteriler gibi halkasal DNA taşır ancak birçoğunun DNA'sı ökaryot hücre DNA’larında olduğu gibi histon denilen
+özel proteinlere sarılmıştır.
+Bazı arkelerde bakterilerde olduğu gibi plazmit DNA’lar bulunabilir. Bunlar, gen transferi (konjugasyon) yöntemiyle bir
+arkeden diğerine aktarılabilir.
+Günümüzde tanımlaması yapılan arkelerin hastalık yapıcı ve endospor oluşturan formu yoktur.
+Arkeler yaşadıkları ortamın özelliklerine göre adlandırılır. Örneğin; aşırı tuzlu ortamlarda yaşayanlara halofiller, oksijensiz or-
+tamda yaşayan ve metan gazı üretenlere metanojenler, termal su kaynakları gibi yerlerde yaşayanlara termofiller adı verilir.
+Termofiller
+4 MEBİ KONU ÖZETLERİ BİYOLOJİ - TYT
+
+BAKTERİLER ÂLEMİ, ARKELER ÂLEMİ
+Arkelerin Biyolojik ve Ekonomik Önemi
+• Arkeler, birçok canlının yaşayamadığı ortamlarda özel enzimleri sayesinde hayatta kalabilir. Direnç kazandırıcı bu özel
+enzimler, endüstride bazı reaksiyonların gerçekleşmesinde ve atık metallerin zehirli etkilerinin azaltılmasında kullanıl-
+maktadır.
+Arkeler petrol ürünlerinin temizlenmesinde kullanılır.
+• Çiftliklerde bulunan çöplerin ve hayvan gübrelerinin üzerinde yaşayabilen bazı arkeler sayesinde biyogaz olarak da
+bilinen metan gazı üretilebilmektedir.
+Arkelerden yararlanarak biyogaz üretilir.
+• Boya endüstrisinde, arıtma tanklarına dolan atık suyun temizlenmesinde ve gübre sanayisinde arkelerden yararlanılır.
+• Otçul hayvanların bağırsaklarında yaşayan arkeler, selülozun sindirimi için gerekli enzimi sentezleyebilmektedir.
+• Arkeler doğadaki azot, karbon döngüsünde ve suların arıtılmasında görev yaparak ekosisteme katkı sağlamaktadır.
+T
+O K
+A
+Z R
+A B
+O
+N
+SU
+Arkeler doğadaki azot, karbon ve
+su döngüsüne katkı sağlar.
+BİYOLOJİ - TYT MEBİ KONU ÖZETLERİ 55
+

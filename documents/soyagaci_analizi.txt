@@ -1,0 +1,122 @@
+BİYOLOJİ
+KONU
+SOYAĞACI ANALİZİ VE ÖRNEKLERİ
+ÖZETİ
+TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT
+SOYAĞACI ANALİZİ
+Genetik bilimciler tarafından geliştirilmiş anne, baba, çocuk ve aralarında kan bağı bulunan akrabalar arasında belirli bir
+karakterin kuşaktan kuşağa geçişini açıklayan şemaya soyağacı denir.
+Soyağacı hazırlanırken kullanılan evrensel semboller:
+• Soyağacında kare şekli erkek bireyi gösterir.
+• Daire şekli dişi bireyi temsil eder.
+• Daire ve Kare şekillerin arasındaki yatay çizgi evlilik bağıdır.
+• Çizginin altında bulunanlar soldan sağa doğum sırasına göre çocukları
+temsil eder.
+• İncelenecek özelliği fenotipte gösteren bireyler, renkli ya da taralı olarak
+belirtilir.
+Normal dişi
+Eşeyi belirlenmemiş
+Tek yumurta ikizi
+birey
+(Cinsiyetleri aynıdır.)
+Normal erkek
+Özelliği fenotipinde Hayatını kaybeden
+gösteren dişi dişi birey
+Çift yumurta ikizi
+Özelliği fenotipinde Hayatını kaybeden
+(Cinsiyetleri aynı ya da farklı olabilir.)
+gösteren erkek erkek birey
+Heterozigot taşıyıcı
+Normal evlilik
+dişi
+Heterozigot taşıyıcı
+Akraba evliliği
+erkek Normal anne, baba ve çocuklar
+İnsanların eşeysel olgunluğa erişmesinin uzun zaman alması, genetik çalışma ve araştırma uygulamalarında insan kulla-
+nımını zorlaştırır. Bu durum etik açıdan da belli ilkeler gerektirir.
+Etik ilkeler gereği genetik çalışma ve araştırmaya katılacak katılımcı;
+• yeterli düzeyde bilgilendirilmeli,
+• katılımcının onayı alınmalı,
+• kimlik ve genetik bilgileri gizli tutulmalıdır.
+Genetikçiler, daha önce gerçekleşmiş olan evliliklerin sonuçlarını analiz ederler. Bunun için bir özellik bakımından seçilen
+ailenin tüm bilgileri toplanarak kuşaktan kuşağa nasıl aktarıldığı soyağacı üzerinde gösterilir. Soyağacı sorularında verilen
+özellikler tek tek denenir.
+• Genellikle bir özelliği taşıyan birey, koyu renkli ya da içi taralı olarak belirtilir.
+BİYOLOJİ - TYT MEBİ KONU ÖZETLERİ 11
+
+SOYAĞACI ANALİZİ VE ÖRNEKLERİ
+• Otozomal baskın, otozomal çekinik, otozomal eş baskın, X ve Y kromozomuna bağlı özellikler aşağıdaki şekilde
+gösterilebilir:
+Otozomal baskın alelin gösterimi A,
+Otozomal çekinik alelin gösterimi a,
+Otozomal eş baskın alellerin gösterimi AB ve MN gibi.
+X kromozomu üzerinde taşınan çekinik alelin gösterimi Xa,
+X kromozomu üzerinde taşınan baskın alelin gösterimi XA,
+Y kromozomu üzerinde taşınan baskın alelin gösterimi YA,
+Y kromozomu üzerinde taşınan çekinik alelin gösterimi Ya,
+X ve Y kromozomlarının homolog bölgesinde taşınan çekinik alellerin gösterimi XaYa’dır.
+SOYAĞAÇLARI
+X ve Y kromozomlarının
+Otozomal eş baskın
+Otozomal Gonozomal homolog bölgesinde
+alellerin gösterimi
+Karakterler Karakterler taşınan çekinik alellerin
+AB ve MN
+gösterimi XaYa
+Baskın Çekinik X’e Bağlı Y’ye Bağlı
+A a YA veya Ya
+Baskın Çekinik
+XA Xa
+Taralı veya renkli verilen bireylerin özelliği yerine yazılır ve kalıtımın doğruluğu denenir. Soyağacında olmaması gereken
+bir özellik ortaya çıkmışsa mutasyondan söz edilebilir.
+SOYAĞACI ÖRNEKLERİ
+Soyağaçları ile yapılan çalışmalarda birinci nesil (ata) bireylerin fenotip ve genotip özelliklerinden yola çıkarak daha son-
+raki nesillerin genotipleri veya sonraki nesillerin fenotiplerine bakılarak ata bireylerin genotipleri tahmin edilmeye çalışılır.
+Kalıtsal hastalıkların çoğu çekinik alellerle taşınır.
+Kan Gruplarının Soyağacı Örneği
+A Rh+ B Rh–
+AORr BOrr
+A Rh+ B Rh+ O Rh– AB Rh+ O Rh+ A Rh–
+AORr BORr OOrr ABRr OORr AOrr
+2 MEBİ KONU ÖZETLERİ BİYOLOJİ - TYT
+
+SOYAĞACI ANALİZİ VE ÖRNEKLERİ
+Otozomal Kalıtımın Soyağacı Örnekleri
+Otozomal Baskın Aa aa
+A karakteri için,
+Taralı bireyler: AA, Aa Aa aa Aa Aa
+Taralı olmayan bireyler: aa
+aa
+Otozomal Çekinik
+Aa aa
+A karakteri için,
+Taralı bireyler: aa aa Aa Aa Aa
+Taralı olmayan bireyler: AA, Aa
+aa
+Gonozomal Kalıtımın Soyağacı Örnekleri
+X’e Bağlı Baskın
+XD XD XdXd XDY
+Bozuk dentin - Taralı
+Dişi — XD Xd
+Xd Xd † Normal
+XdY XDXd XDXd XdY
+X D Y † Bozuk dentin - Taralı
+Erkek —
+XdXd
+Xd Y † Normal
+X’e Bağlı Çekinik
+XRXr XRY
+XR X R † Sağlam
+Dişi — XR Xr † Taşıyıcı
+XRXR
+Xr Xr † Renk körü - Taralı veya XrY XRXr
+XRXr
+XR Y † Sağlam
+Erkek — XRY XrXr XrY XRXr
+Xr Y † Renk körü - Taralı
+Y’ye Bağlı Baskın veya Çekinik
+Sağlıklı baba † Sağlıklı erkek çocuk
+3
+Hasta baba † Hasta erkek çocuk
+BİYOLOJİ - TYT MEBİ KONU ÖZETLERİ 33
+

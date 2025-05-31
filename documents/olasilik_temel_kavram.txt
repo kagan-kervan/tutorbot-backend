@@ -1,0 +1,35 @@
+MMAATTEEMMAATTİİKK
+KKOONNUU
+OOLLAASSIILLIIKKTTAA TTEEMMEELL KKAAVVRRAAMMLLAARR
+ÖÖZZEETTİİ
+TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT
+DENEY : Tekrarlanabilen, farklı tekrarında farklı sonuçlar elde edilebilen süreçlere birer deney denir.
+Örneğin, havaya bir madenî para atma bir deneydir.
+ÇIKTI : Bir deneyde elde edilen sonuçların her birine o deneye ait çıktı denir.
+Örneğin, havaya atılan bir madenî para yere düştüğünde, üst yüzündeki “yazı” ya da “tura” sonuçları bu deneye ait çıktı-
+lardır.
+ÖRNEK UZAY : Bir deneyin bütün çıktılarının kümesine o deneyin örnek uzayı denir.
+Örnek uzay, genellikle E ile gösterilir. Örnek uzayın her bir alt kümesine olay denir.
+ÖRNEK : Bir madenî paranın havaya atılması olayının örnek uzayı,
+E = { Y , T } ve s(E) = 2 olur.
+ÖRNEK : İki madenî paranın havaya atılması olayının örnek uzayı,
+E = { YY , YT , TY , TT } ve s(E) = 4 olur.
+ÖRNEK : Üç madenî paranın havaya atılması olayının örnek uzayı,
+E = { YYY , YYT , YTY , TYY , YTT , TYT , TTY , TTT } ve s(E) = 8 olur.
+• n tane madenî paranın birlikte atılması deneyi ile bir madenî paranın n defa atılması deneyinin örnek uzayı aynıdır
+ve 2n elemanlıdır.
+• n tane zarın birlikte havaya atılması deneyi ile bir zarın n defa havaya atılması deneyinin örnek uzayı aynıdır ve
+6n elemanlıdır.
+AYRIK OLAYLAR : Ortak elemanları olmayan kümeler ile temsil edilen olaylara ayrık olaylar denir.
+• A ve B ayrık iki olay ise A B = olur.
+∩ ∅
+AYRIK OLMAYAN OLAYLAR : İki olayın ortak elemanı varsa bu olaylara ayrık olmayan olaylar denir.
+• A ve B ayrık olmayan iki olay ise A B ≠ olur.
+∩ ∅
+BİR OLAYIN TÜMLEYENİ : Bir A olayının çıktılarının dışında örnek uzayın bütün çıktılarını içeren
+olaya A olayının tümleyeni denir ve A ile gösterilir.
+'
+İMKÂNSIZ OLAY : Gerçekleşmesi mümkün olmayan olaylara imkânsız olay denir.
+KESİN OLAY : Gerçekleşmesi kesin olan olaylara kesin olay denir.
+MMAATTEEMMAATTİİKK -- TTYYTT MEBİ KONU ÖZETLERİ 11
+

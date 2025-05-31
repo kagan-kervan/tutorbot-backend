@@ -1,0 +1,37 @@
+MMAATTEEMMAATTİİKK
+KKOONNUU
+FFOONNKKSSİİYYOONN KKAAVVRRAAMMII VVEE GGÖÖSSTTEERRİİMMİİ
+ÖÖZZEETTİİ
+TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT
+• A ve B boş kümeden farklı iki küme olmak üzere A kümesinin her bir elemanını B kümesinin bir ve yalnız bir ele-
+manına eşleyen ilişkiye A dan B ye tanımlı fonksiyon denir.
+f
+A B
+. a . 3
+. b . 5
+. c . –1
+• A dan B ye tanımlanan f fonksiyonu f: A B şeklinde gösterilir.
+(x, y) f y = f(x)
+→
+şeklinde yazılır. Bu gösterimde x bağımsız değişken, y bağımlı değişken olarak adlandırılır.
+∈ ⇒
+• Fonksiyonlar genellikle f, g, h gibi küçük harflerle gösterilir.
+• f: A B gösteriminde A kümesine tanım kümesi, B kümesine değer kümesi adı verilir. A kümesindeki elemanla-
+rın B kümesinde eşleştiği elemanların oluşturduğu f(A) kümesine ise görüntü kümesi adı verilir.
+→
+•
+f
+A B
+A'nın görüntü
+kümesi f(A)
+.x . f(x)
+A ® Tanım kümesi
+B ® Değer kümesi
+f(A) ® Görüntü kümesi
+• Görüntü kümesi her zaman değer kümesinin bir alt kümesidir. f(A) B şeklinde gösterilir.
+⊆
+DİKKAT!
+• A ve B boş kümeden farklı birer küme ve s(A) = m ve s(B) = n olmak üzere A kümesinden B kümesine tanımlana-
+bilecek fonksiyonların sayısı nm ifadesi ile hesaplanır.
+MMAATTEEMMAATTİİKK -- TTYYTT MEBİ KONU ÖZETLERİ 11
+

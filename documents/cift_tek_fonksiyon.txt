@@ -1,0 +1,34 @@
+MMAATTEEMMAATTİİKK
+KKOONNUU
+ÇÇİİFFTT VVEE TTEEKK FFOONNKKSSİİYYOONN
+ÖÖZZEETTİİ
+TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT
+1) ÇİFT FONKSİYON
+f : ℝ ℝ tanımlı bir fonksiyon olmak üzere x ℝ için f(– x) = f(x) ise f fonksiyonuna çift fonksiyon denir.
+→ ∀ ∈
+a) f(x) = x2 b) f(x) = 3 c) f(x) = cosx
+y y y
+f(x) = x2
+f(x) = cosx
+3
+f(x) = 3
+x
+O
+x x
+O O
+NOT
+• Çift fonksiyonların grafikleri y eksenine göre simetriktir.
+• Çift fonksiyonların eşleştirme kurallarında değişkenin sadece çift dereceli terimleri bulunur.
+2) TEK FONKSİYON
+f : ℝ ℝ tanımlı bir fonksiyon olmak üzere x ℝ için f(– x) = – f(x) ise f fonksiyonuna tek fonksiyon denir.
+→ ∀ ∈
+a) f(x) = x b) f(x) = x3 c) f(x) = sinx
+y y y
+f(x) = x f(x) = x3
+f(x) = sinx
+x x x
+NOT
+• Tek fonksiyonların grafikleri orijine göre simetriktir.
+• Tek fonksiyonların eşleştirme kurallarında değişkenin sadece tek dereceli terimleri bulunur.
+MMAATTEEMMAATTİİKK -- TTYYTT MEBİ KONU ÖZETLERİ 11
+
