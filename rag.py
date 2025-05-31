@@ -12,8 +12,8 @@ genai.configure(api_key="API_KEY")
 
 # --- Model and Index Loading ---
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
-index = faiss.read_index("faiss_index.idx")
-with open("documents.pkl", "rb") as f:
+index = faiss.read_index("script/faiss_index.idx")
+with open("script/documents.pkl", "rb") as f:
     documents, file_names = pickle.load(f)
 
 def retrieve_context(question: str, top_k=1) -> str:
