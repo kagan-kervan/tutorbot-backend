@@ -1,0 +1,186 @@
+KIMYA
+KONU
+GÜÇLÜ ETKILEŞIMLER
+ÖZETI
+TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT
+Güçlü etkileşimlerde atomların son katmanındaki elektronlar (değerlik elektronları) kullanılır.
+Bunun için,
+• Değerlik elektronları alınıp verilir (İyonik bağ).
+• Ortaklaşa kullanılır (Kovalent bağ).
+• Elektron denizi oluşturur (Metalik bağ).
+Bağ oluşumunun değerlik elektronları ile gösterildiği yapılara Lewis yapısı denir.
+Lewis yapısı, bir element sembolü ile son katman (değerlik) elektronlarının sayısını
+gösteren noktalardan oluşur.
+1
+H: 1) HHHH
+Element sembolünün çevresine değerlik elektron sayısı kadar nokta, sembolün dört
+2
+He: 2) HHHH eeee
+tarafına önce teker teker yerleştirilir; dörtten fazla elektronu varsa sekize ulaşıncaya Li: 2) 1)
+LLLL iiii
+3
+kadar noktalar ikişerli olacak şekilde eşleştirilir.
+O: 2) 6)
+OOOO
+8
+Bağ yapan bir çift elektron çizgi ile gösterilir.
+Bağ yapımına katılan elektron çiftlerine bağlayıcı (ortaklanmış) elektron çifti, bağ
+yapımına katılmayan elektron çiftlerine ortaklanmamış elektron çifti denir.
+IYONIK BAĞLI BILEŞIKLER
+İyonik bağ, zıt yüklü iyonların birbirini
+elektrostatik çekim kuvveti ile çekmesi
+sonucunda oluşur.
+İyonik bileşiklerde en küçük birim
+molekül değil, birim hücredir.
+• İyonik bağ, metal ve ametal atomları arasında elektron alışverişi ile oluşur.
+• İyonik kristalde tekrarlayan birimlere birim hücre denir.
+• Oda şartlarında katı hâlde bulunur.
+• Erime ve kaynama noktaları yüksektir.
+• Katı hâlde elektriği iletmez. Sıvı ve çözelti hâlleri iletir.
+• Sert ve kırılgandır.
+• Güçlü etkileşimler olup elektroliz ile ayrıştırılır.
+• Suda iyi çözünür.
+• İyon yükü arttıkça iyonik bağın kuvveti artar.
+• Aynı yüke sahip iyonlar da yarıçapı arttıkça iyonik bağ zayıflar ve erime noktası düşer.
+KIMYA - TYT MEBI KONU ÖZETLERI 1
+
+GÜÇLÜ ETKILEŞIMLER
+IYONIK BILEŞIKLERIN SISTEMATIK ADLANDIRILMASI
++1 yüklü +2 yüklü +3 yüklü
+H+ Hidrojen Be2+ Berilyum AI3+ Alüminyum
+Li+ Lityum Mg2+ Magnezyum
+Na+ Sodyum Ca2+ Kalsiyum
+K+ Potasyum Ba2+ Baryum
+Ag+ Gümüş Zn2+ Çinko
+NH+ Amonyum
+4
+�1 yüklü �2 yüklü �3 yüklü
+F� Florür O2� Oksit N3� Nitrür
+CI� Klorür S2� Sülfür P3� Fosfür
+Br� Bromür CO2� Karbonat PO3� Fosfat
+3 4
+I� İyodür SO2� Sülfat
+4
+OH� Hidroksit
+CN� Siyanür
+NO� Nitrat
+3
+CH COO� Asetat
+3
+Değişken Değerlikli Bileşiklerinde Alabilecekleri Değişken Değerlikli Metalin
+Metal Değerlikler Iyon Adı
+Cu+ Bakır(I)
+Cu
+Cu2+ Bakır(II)
+Hg+ Cıva(I)
+Hg
+Hg2+ Cıva(II)
+Fe2+ Demir(II)
+Fe
+Fe3+ Demir(III)
+Sn2+ Kalay(II)
+Sn
+Sn4+ Kalay(IV)
+Pb2+ Kurşun(II)
+Pb
+Pb4+ Kurşun(IV)
+Bileşik Formülü Katyon Adı + Anyon Adı Bileşik Adı
+Al S Alüminyum Sülfür Alüminyum sülfür
+2
+MgO Magnezyum Oksit Magnezyum oksit
+CaCl Kalsiyum Klorür Kalsiyum klorür
+2
+K N Potasyum Nitrür Potasyum nitrür
+3
+Mg (PO ) Magnezyum Fosfat Magnezyum fosfat
+3 42
+2 MEBİ KONU ÖZETLERİ KIMYA - TYT
+
+GÜÇLÜ ETKILEŞIMLER
+Değişken Değerlikli Metallerin Oluşturduğu Bileşiklerin Adlandırılması
+Parantez içerisinde Romen
+Bileşik Formülü Katyon Adı + Anyon Adı Bileşik Adı
+rakamıyla metal değerliği
+FeO Demir (II) Oksit Demir(II) oksit
+Fe O Demir (III) Oksit Demir(III) oksit
+2 3
+CuCl Bakır (I) Klorür Bakır(I) klorür
+CuCl Bakır (II) Klorür Bakır(II) klorür
+2
+Iyonik Bileşiklerin Formüllerinin Yazılması
+• Önce pozitif yüklü iyon (katyon), sonra negatif yüklü iyon
+(anyon) yazılır. Ca2+ + O2� † Ca O † CaO
+2 2
+• İyon yüklerinin mutlak değerleri element sembollerinin sağ alt Al3+ + OH� † Al(OH)
+3
+köşelerine çapraz olarak yazılır. Al3+ + O2� † Al O
+3 2
+• Eğer iyonların yükleri eşitse çaprazlanan sayılar sadeleştirilir.
+KOVALENT BAĞLARIN OLUŞUMU
+Kovalent bağ, ametal-ametal
+atomları arasında iki veya daha
+fazla elektronunun ortaklaşa
+kullanılması ile oluşur.
+Kovalent Bağ
+Polar Kovalent Bağ Apolar Kovalent Bağ
+Molekülde elektron yük dağılımı Aynı tür atomların elektronegatiflik
+homojen değil de bir atom üzerine değerleri aynı olduğundan ortak
+yoğunlaşmışsa elektron yoğunluğu kullanılan elektronlar her iki atom
+çok olan uç kısmi negatif (� ), diğer tarafından eşit çekilir. Elektron
+uç kısmi pozitif (+ ) olur. Böylece yük yoğunluğu eşit dağıldığı için
+δ
+kalıcı olarak (+) ve (�) iki kutup kutup oluşmaz. Bu tür bağa apolar
+δ
+oluşur. Bu tür bağa polar (kutuplu) (kutupsuz) kovalent bağ denir.
+kovalent bağ denir.
+F F O O N N
+H O, BH , NH
+2 3 3
+MOLEKÜLLERDE POLARLIK
+• Merkez atom üzerinde ortaklanmış O
+elektron çifti varsa polardır. H H
+H
+• Merkez atom üzerinde ortaklanmış B
+elektron çifti yoksa apolardır. H H
+KIMYA - TYT MEBİ KONU ÖZETLERİ 3
+
+GÜÇLÜ ETKILEŞIMLER
+KOVALENT BILEŞIKLERIN SISTEMATIK ADLANDIRILMASI
+Sayı Latince Adı Sayı Latince Adı
+1 mono 6 hekza
+2 di 7 hepta
+3 tri 8 okta
+4 tetra 9 nona
+5 penta 10 deka
+1. Ametalin Latince 1. Ametalin 2. Ametalin 2. Ametalin
+Bileşik Formülü Bileşik Adı
+sayısı (mono hariç) adı Latince sayısı adı
+CO Mono kullanılmaz Karbon Mono Oksit Karbon monoksit
+CO Mono kullanılmaz Karbon Di Oksit Karbon dioksit
+2
+N O Di Azot Penta Oksit Diazot pentaoksit
+2 5
+N O Di Azot Mono Oksit Diazot monoksit
+2
+P O Di Fosfor Tri Oksit Difosfor trioksit
+2 3
+NBr Mono kullanılmaz Azot Tri Bromür Azot tribromür
+3
+METALIK BAĞ
+Metaller düşük iyonlaşma enerjilerine sahip olduğu için değerlik elektronları çekirdek tarafından
+zayıf çekilir. Bu nedenle metal atomları bir arada bulunduğunda değerlik elektronları hem kendi + + + +
+orbitallerinde hem de komşu atomların boş değerlik orbitallerinde dolaşabilir. Serbest dolaşan
++ + + +
+bu elektronların oluşturduğu elektron denizi ile pozitif metal iyonları arasındaki elektrostatik
+çekime metalik bağ denir.
+Metalik bağ metallere;
+• ısı ve elektriği iletkenliği,
+• yüzeylerinin parlak olması,
+• tel ve levha hâline getirilebilme
+özelliklerini kazandırır.
+DIKKAT
+Güçlü etkileşimlerde, atomların son katmanındaki elektronlar yani değerlik elektronları kullanılır.
+Genelde bağ sayısı çok olan atom merkez atomudur. Birden çok merkez atom varsa bunlar birbirine bağlanır.
+İyonik bileşiklerde en küçük birim molekül değil, birim hücredir.
+4 MEBİ KONU ÖZETLERİ KIMYA - TYT
+

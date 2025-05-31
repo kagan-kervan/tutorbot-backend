@@ -1,0 +1,69 @@
+KIMYA
+KONU
+ATOM MODELLERI
+ÖZETI
+TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT
+• MÖ 5. yy.da Democritus, madde küçük parçalara bölündüğünde atomos denen bölünemeyen parçacıklara
+ulaşılacağına inanıyordu.
+• Deneysel gözlemlere dayanarak atomun yapısını açıklayan şekillere atom modeli denir. Bilimsel anlamda ilk atom
+modeli Dalton Atom Modeli’dir. Sırasıyla Thomson, Rutherford ve Bohr Atom Modeli gelir. Bugün kullanılan ise
+Modern Atom Teorisi’dir.
+DALTON ATOM MODELI (1803)
+• Atom, bilardo topuna benzer.
+• İçi dolu küre şeklindedir.
+• Atom, kimyasal tepkimelerde parçalanamaz, bölünemez. Türü ve sayısı korunur.
+• Bir elementin tüm atomları şekil ve kütle bakımından özdeştir.
+• Farklı element atomları birbirinden farklıdır.
+• Bileşikler farklı element atomlarının belli oranlarda birleşmesinden oluşur.
+Modelin Eksiklikleri:
+• En küçük tanecik atom değil, atom altı taneciklerdir.
+• Atom içi dolu küre değil, boşluklu yapıdadır.
+• Radyoaktif olaylarda atom parçalanabilir.
+• Bir elementin tüm atomları kütlece özdeş olmayabilir. İzotop atomlar vardır.
+THOMSON ATOM MODELI (1897)
+• Thomson, katot ışınları ile yaptığı deneyler sonucunda negatif (�) yüklü tanecikleri
+bulmuş ve üzümlü kek modelini ortaya koymuştur.
+• (�) ve (+) yüklü tanecikler homojen dağılmıştır.
+• Atomlar, çapları yaklaşık 10�8 cm olan kürelerdir.
+• Negatif (�) yük sayısı, pozitif (+) yük sayısına eşit olup atomlar yük bakımından nötrdür.
+• Elektronun kütlesi çok küçük olduğundan atomun kütlesinin kaynağı protonlardır.
+Modelin Eksiklikleri:
+• (�) ve (+) yüklü tanecikler homojen dağılmamıştır.
+• (+) yüklü tanecikler atomun kütlesinin yaklaşık olarak yarısını oluşturur.
+KIMYA - TYT MEBI KONU ÖZETLERI 1
+
+ATOM MODELLERI
+RUTHERFORD ATOM MODELI (1912)
+• Radyoaktif bir kaynaktan elde ettiği (+) yüklü ışınların ince altın (Au) levhadan saçılmalarını gözlemlemiştir.
+• Alfa ışınlarının çok küçük bir kısmının geri yansıması sonucu, çekirdekli yapı anlaşılmıştır.
+• Model, gezegen modeli olarak da bilinir.
+• (+) yükün tamamı çekirdektedir.
+• Çekirdek çapı 10�12 – 10�13 cm’dir.
+• (+) yük miktarı bir elementin tüm atomlarında aynıdır.
+• Atomda elektron sayısı proton sayısına eşittir.
+• Atomun kütlesinin yaklaşık olarak yarısını protonlar oluşturur. Bu görüşü nötronları işaret
+etmiştir.
+• 1932’de Chadwick nötronları bulmuştur.
+Modelin Eksiklikleri:
+• Elektronların proton içeren çekirdeğe neden düşmediğini açıklayamaz.
+BOHR ATOM MODELI (1913)
+• Elementlerin alev rengi üzerinde yaptığı değişiklikler ayırt edicidir (Na: Sarı).
+• Maddenin ısı enerjisi almasına abrorpsiyon (soğurma) aldığı ısının bir kısmını ışıma ile geri vermesine emisyon
+(yayma) denir.
+• Yüksek sıcaklığa ısıtılan maddelerin yaydığı ışınların prizmadan geçilmesi sonucu farklı açılarla kırılarak çeşitli
+renklerde çizgiler oluşturur. Bu çizgilere ışık spektrumu denir.
+• Bohr, hidrojenin ışık spektrumunu inceleyerek bir model oluşturmuştur.
+• Model, yörünge modeli olarak bilinir.
+• Elektronlar çekirdekten belirli uzaklıktaki K, L, M… (1, 2, 3,…) enerji düzeylerinde
+bulunur.
+• Elektronların olması gereken yerde olması durumuna temel hâl denir. Kararlı hâl olan
+bu durumda atom ışın yaymaz.
+• Atom dışarıdan enerji aldığında elektron daha yüksek enerji seviyesine geçer. Buna
+uyarılmış hâl denir.
+• Elektron uyarılmış hâlden temel hâle geçerken aldığı enerjiyi yayar.
+Modelin Eksiklikleri:
+• Tek elektronlu taneciklerin ( H, He+, Li2+ gibi) davranışları açıklar, çok elektronlu türleri açıklayamaz.
+1 2 3
+• Elektronların yeri tespit edilemez.
+2 MEBİ KONU ÖZETLERİ KIMYA - TYT
+

@@ -1,0 +1,159 @@
+KIMYA
+KONU
+AYIRMA VE SAFLAŞTIRMA TEKNIKLERI
+ÖZETI
+TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT TYT
+AYIRMA VE SAFLAŞTIRMA TEKNIKLERI
+Karışımların bileşenlerine ayrılması için maddelerin bazı fiziksel özelliklerinin farklılıklarından yararlanılır.
+1. Yoğunluk Farkı 5. Hâl Değiştirme Sıcaklıklarının Farklılığı
+• Ayırma hunisi (zeytinyağı - su) • Buharlaştırma (tuzlu sudan tuz)
+• Savurma (buğday - saman) • Süblimleştirme (parmak izi tesbiti)
+• Santrifüjleme (kanın merkezcil kuvvet yardımıyla • Erime noktası farkı (alaşımlar)
+çöktürülmesi)
+• Damıtma (tuzlu sudan tuz ve su)
+• Aktarma = Dekantasyon (pirinç - su)
+• Ayrımsal damıtma (kolonyadan alkol ve su)
+• Pıhtılaştırma = Koagülasyon (şap gibi koagülantlarla)
+• Yüzdürme = Flotasyon (cevher zenginleştirme)
+2. Elektrik ve Magnetik Özellik Farkı HATIRLAYALIM
+• Mıknatıslama (Fe – Co – Ni elementlerini diğerlerinden)
+• Karışımlar fiziksel yöntemlerle bileşenlerine
+• Elektriklenme (tuz - biber) ayrılabilirken elementler fiziksel veya kimyasal hiçbir
+yöntemle bileşenlerine ayrılamaz.
+3. Çözünürlük Farkı
+• Bileşikleri bileşenlerine ayırmak için ısı, elektrik, ışık
+• Ayrımsal kristallendirme (tuz - şeker) ve başka maddelerle tepkimeler gibi çeşitli yöntemler
+kullanılır.
+• Ekstraksiyon = Özütleme (çayın demlenmesi,
+peynirin suda bekletilmesi)
+CaCO (k) ısı CaO(k) CO (g)
+3 2
+4. Tanecik Boyutu Farkı 1
+HO(s) elektroliz H (g) O ((g)
+• Ayıklama (pirinç - taş) 2 2 2 2
+AgNO (suda) Cu(k) CuNO (suda) Ag(k)
+• Eleme (kum - çakıl) 3 3
+• Süzme (naftalin - su)
+• Diyaliz (böbrek fonksiyonu)
+KARIŞIMLARI AYIRMA TEKNIKLERI
+Mıknatıs ile Ayırma Eleme
+• Demir, nikel, kobalt ve bu elementlerin alaşımlarını • Kum - çakıl gibi tanecik boyutu farklı katı
+içeren maddeler mıknatıs tarafından kuvvetle karışımları ayırmak için uygun boyutlarda eleklerle
+çekilmeleri sebebiyle karışımdaki diğer maddelerden gerçekleştirilen bir yöntemdir.
+ayrılır.
+Süzme
+• Yöntem geri dönüşüm ünitelerinde kâğıt malzemenin
+metallerden ayrılması amacıyla kullanılabilir. • Karışımdaki maddelerden birinin geçmesine izin
+verip diğerini tutan süzgeç ve filtrelerle yapılan bir
+Yüzdürme (Flotasyon) ayırma işlemidir.
+• Katı - katı veya katı - sıvı karışımların ayrılmasında
+• Heterojen karışım katı - sıvı veya katı - gaz fazlarında
+kullanılan bir yöntemdir.
+olabilir.
+• Katı - katı karışımlarda bir bileşenin uygun bir kimyasal
+• Mutfaklarda kullanılan süzgeçler, elektrik
+madde ile yüzdürülmesi veya batırılması ile ayrılmasıdır.
+süpürgelerindeki toz filtreleri, otomobillerdeki
+• Madencilik sektöründe cevher zenginleştirme
+yağ filtreleri, fabrika bacalarındaki filtreler, suyun
+yöntemi olarak kullanılır.
+bulanıklığını gideren filtreler ve laboratuvardaki
+• Cu, Pb, Zn cevherlerini zenginleştirmek için flotasyon süzgeç kâğıtları yerleştirilmiş huniler bu amaçla
+yöntemi kullanılır. kullanılır.
+KIMYA - TYT MEBI KONU ÖZETLERI 1
+
+AYIRMA VE SAFLAŞTIRMA TEKNIKLERI
+Erime Noktası Farkından Faydalanma Diyaliz
+• Katı - katı homojen karışımları ayırmada kullanılır. • Bu yöntemde kolloidal karışımlar gözenekli yarı
+geçirgen zarlardan geçirilerek ayırma yapılır.
+• Erime noktası farkından faydalanılarak yapılan bir
+ayırma yöntemidir. • Özellikle sağlık alanında kullanılır. Böbrek, diyaliz
+yöntemiyle çalışır. Böbreklerinde sorun olan hastalar
+• Alaşımı oluşturan metallerden erime noktası düşük
+belirli aralıklarla diyaliz makinesine bağlanır.
+olan metal önce eriyeceğinden katı hâldeki diğer
+metalden ayrılır. • Bu yöntemle kan tedavisi, hücre beslenmesi, virüs
+arındırma uygulamaları yapılabilir.
+• Başarılı bir ayırma yapabilmek için metallerin
+erime noktaları arasındaki farkın büyük olması
+Ayrımsal Kristallendirme
+gerekmektedir.
+• Çözünürlükleri farklı katı - katı karışımları veya içinde
+Ayırma Hunisi birden fazla katı çözünmüş çözeltilerin ayrılmasında
+kullanılan bir yöntemdir.
+• Sıvı - sıvı heterojen karışımların ayrılmasında
+kullanılır. • Tuz ve şeker karışımı suda çözülüp karışımın
+soğutulması ile bileşenler ayrılır.
+• Birbiri içinde çözünmeyen sıvıların yoğunluk
+farkından faydalanılır. • Deniz tuzundan yemek tuzu eldesinde bu yöntem
+kullanılır.
+• Yoğunluğu büyük olan sıvı, ilk ayrılan sıvıdır.
+Zeytinyağı - su ve su - benzin gibi karışımlar bu
+Basit (Adi) Damıtma
+yöntemle ayrılır.
+• Katı - sıvı çözeltideki her bileşeni elde etmek için tercih
+Buharlaştırma edilen bir yöntemdir.
+• Katı - sıvı homojen karışımlardan yalnız katı bileşeni • Yöntemde sıvı bileşen buharlaştırılıp yoğunlaştırılarak
+elde etmek için yapılan işlemdir. toplanır. Toplanan sıvıya "destilat" denir.
+• Şekerli su çözeltisinden şekeri elde etmek için su • Damıtma düzeneği; damıtma balonu, termometre
+buharlaştırılır. Kapta şeker kalır. soğutucu, bek ve toplama kabından oluşur.
+• Yağmur oluşumu damıtma örneğidir.
+Ayrımsal Damıtma
+• Sıvı - sıvı homojen karışımlarda bileşenlerin kaynama
+Özütleme (Ekstraksiyon = Çekme)
+noktaları farkından faydalanılarak yapılan bir ayırma
+• Karışımdaki bileşenlerden birinin karışıma ilave
+işlemidir.
+edilen çözücü yardımıyla ortamdan uzaklaştırılması
+• Yöntemde basit damıtmadan farklı olarak damıtma işlemidir.
+kolonu bulunur. Damıtma kolonundaki cam parçaları
+• Yöntem; katı, sıvı ve gaz karışımlara uygulanabilir.
+kaynama noktası yüksek olan ancak düşük
+sıcaklıktada buharlaşacak olan bileşenin ortamı terk • Şeker pancarından şeker eldesi, çayın demlenmesi,
+etmesini engeller. söğüt ağacından salisilik asit eldesi, peynir tuzunun
+suda bekletilerek uzaklaştırılması, zeytinden
+• Basit damıtma ile ayrılmaya çalışılan sıvı - sıvı
+zeytinyağı eldesi örnek olarak verilebilir.
+çözeltide destilattaki sıvı saflığı düşük olacağından
+ve birkaç kez işlemi tekrarlamak gerekeceğinden • Kaynama noktaları farkı büyük olan sıvılar daha
+ayrımsal damıtma (fraksiyonlu destilasyon) tercih başarılı ayrılır.
+edilir.
+Kristallendirme
+• Yöntem kolonya ve petrolü bileşenlerine ayırmak için
+kullanılır. • Katı - sıvı homojen karışımda katının ayrılmasında
+kullanılabilecek yöntemlerden biridir.
+• Kaynama noktaları farkı büyük olan sıvılar daha
+başarılı ayrılır. • Katılar genellikle endotermik (ısı alarak) çözünür.
+• Çözelti soğutulduğunda çözünürlüğü azalan katı
+çöker. Belirli geometrik şekle sahip katı parçaları
+“kristal” olarak adlandırılır. Şerbet çözeltisinde şeker,
+kristallendirme ile ayrılır.
+2 MEBİ KONU ÖZETLERİ KIMYA - TYT
+
+AYIRMA VE SAFLAŞTIRMA TEKNIKLERI
+HATIRLAYALIM HATIRLAYALIM
+erime buharlaşma iyonizasyon
+Katı Sıvı Gaz Plazma
+Metalik Katı Erime Noktası (°C)
+donma yoğunlaşma deiyonizasyon
+Cıva (Hg) �39
+süblimleşme
+Galyum (Ga) 29
+kırağılaşma
+ısı alan ısı veren Çinko (Zn) 419
+Madde ısı aldıkça
+Altın (Au) 1063
+• Düzensizlik artar.
+Tungsten (W) 3407
+• Akıcılık artar, boyut ve şekil değişir.
+• Tanecikler arası uzaklık artar.
+• Tanecikler arası çekim azalır.
+• Özkütle genellikle azalır.
+HATIRLAYALIM
+• Formül veya sembol değişmez.
+Su ve bizmutta sıvı hâlin yoğunluğu katı hâlinkinden
+• Çekirdek yapısı ve elektron düzeni korunur.
+fazladır.
+• Toplam enerji artar.
+KIMYA - TYT MEBİ KONU ÖZETLERİ 3
+
