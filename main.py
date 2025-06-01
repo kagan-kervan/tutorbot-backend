@@ -84,7 +84,7 @@ def ask_question(req: QuestionRequest, db: Session = Depends(get_db)):
     last_questions = get_last_questions_for_user(db, user.id) if user else []
     history_text = "\n".join([f"Soru: {q.question}\nYanıt: {q.answer or '[Henüz verilmedi]'}" for q in last_questions])
 
-    answer = generate_with_gemini(context, question, grade, history_text)
+    answer = generate_with_gemini(context, question, grade, history_text, intent)
     # Soru ve cevabı veritabanına kaydet
     if user:
         create_question_entry(db, user_id=user.id, question=question, answer=answer)

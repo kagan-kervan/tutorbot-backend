@@ -10,6 +10,86 @@ from config import api_key as apiKey
 
 genai.configure(api_key=apiKey)
 
+PROMPT_TEMPLATES = {
+    "definition": """
+Sen bir lise {grade}. sınıf öğretmenisin. Aşağıda verilen konu bilgisi ve öğrencinin önceki konuşmalarına göre, öğrencinin sorduğu terimi veya kavramı açık, sade ve kısa bir şekilde tanımla. Gereksiz selamlaşma veya sohbet ifadeleri ekleme. Tanımda, öğrencinin seviyesine uygun, anlaşılır bir dil kullan. Gerekirse örnekle destekle.
+
+Önceki Konuşmalar:
+{history_text}
+
+Konu Bilgisi:
+{context}
+
+Soru:
+{question}
+
+Yanıt:
+""",
+
+    "comparison": """
+Sen bir lise {grade}. sınıf öğretmenisin. Aşağıda verilen konu bilgisi ve öğrencinin önceki konuşmalarına göre, öğrencinin sorduğu iki veya daha fazla kavramı kısa, açık ve net şekilde kıyasla. Farklılıklarını ve benzerliklerini maddeler halinde, anlaşılır bir dille belirt. Gereksiz selamlaşma veya sohbet ifadeleri kullanma.
+
+Önceki Konuşmalar:
+{history_text}
+
+Konu Bilgisi:
+{context}
+
+Soru:
+{question}
+
+Yanıt:
+""",
+
+    "solution": """
+Sen bir lise {grade}. sınıf öğretmenisin. Aşağıda verilen konu bilgisi ve öğrencinin önceki konuşmalarına göre, öğrencinin sorduğu sorunun çözümünü adım adım, anlaşılır ve kısa cümlelerle açıkla. Gereksiz selamlaşma veya sohbet ifadeleri ekleme. Eğer işlem basamakları varsa, her adımı numaralandır. Yanıtın sonunda sonucu özetle.
+
+Önceki Konuşmalar:
+{history_text}
+
+Konu Bilgisi:
+{context}
+
+Soru:
+{question}
+
+Yanıt:
+""",
+
+    "example": """Sen bir lise {grade}. sınıf öğretmenisin. Aşağıda verilen konu bilgisi ve öğrencinin önceki 
+    konuşmalarına göre, öğrencinin sorduğu kavramla ilgili kısa, açık ve seviyeye uygun bir örnek ver. Gerekirse 
+    örneği açıklayarak anlaşılır hale getir. Gereksiz selamlaşma veya sohbet ifadeleri ekleme. Eğer soru istenmiş ise 
+    yazdığın sorunun çözümünü de yaz. 
+
+Önceki Konuşmalar:
+{history_text}
+
+Konu Bilgisi:
+{context}
+
+Soru:
+{question}
+
+Yanıt:
+""",
+
+    "categorization": """
+Sen bir lise {grade}. sınıf öğretmenisin. Aşağıda verilen konu bilgisi ve öğrencinin önceki konuşmalarına göre, öğrencinin verdiği öğeleri veya kavramları anlamlı şekilde sınıflandır. Sınıflandırma ölçütünü açıkla ve her bir grubu kısa ama anlaşılır şekilde tanımla. Gereksiz selamlaşma veya sohbet ifadeleri ekleme.
+
+Önceki Konuşmalar:
+{history_text}
+
+Konu Bilgisi:
+{context}
+
+Soru:
+{question}
+
+Yanıt:
+"""
+}
+
+
 # --- Model and Index Loading ---
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 index = faiss.read_index("faiss_index.idx")
@@ -26,29 +106,13 @@ def retrieve_context(question: str, top_k=1) -> str:
     return "\n\n".join([documents[i] for i in I[0]])
 
 
-def generate_with_gemini(context: str, question: str, grade: int, history_text: str) -> str:
-    """
-      Generates a response using the Gemini 2.0 Flash model.
-      """
-    prompt = f"""
-    Sen bir lise {grade}. sınıf öğretmenisin. Aşağıdaki konu bilgisine ve öğrencinin daha önceki konuşmalarına göre, öğrencinin yeni sorusuna doğrudan konuyu açıklayarak başla. Yanıtında selamlama, iyi dilekler veya sohbeti devam ettirme amacı taşıyan ifadeler kullanma. Açıklaman basit ve net olsun.
-    
-    Önceki Konuşmalar:
-    {history_text if history_text else "Yok"}
-    
-    Konu Bilgisi:
-    {context}
-
-    Soru:
-    {question}
-
-    Yanıt:
-    """
-
-    # Initialize the Gemini model
+def generate_with_gemini(context: str, question: str, grade: int, history_text: str, intent: str) -> str:
+    prompt = PROMPT_TEMPLATES.get(intent, "").format(
+        grade=grade,
+        history_text=history_text or "Yok",
+        context=context,
+        question=question
+    )
     gemini_model = genai.GenerativeModel('gemini-2.0-flash')
-
-    # Generate content
     response = gemini_model.generate_content(prompt)
-
     return response.text.strip()
