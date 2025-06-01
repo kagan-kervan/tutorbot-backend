@@ -1,0 +1,3 @@
+Öz İndüksiyon, Lorentz Kuvveti ve Elektromotor Kuvveti: Özet
+
+Öz indüksiyon emk'sı, bobinli devrelerde akım değişimine karşı oluşan zıt yönlü bir emk'dır ve bu olaya öz indüksiyon akımı denir. İndüksiyon akımı ise manyetik alanda hareket eden iletken telde oluşan akımdır. Elektromotor kuvveti, manyetik alandaki hareketli telin uçları arasında oluşan potansiyel farktır. Kapalı bir devrede indüksiyon emk'sı ve akımı, manyetik akı değişimine bağlı olarak oluşur ve Lenz Kanunu'na göre, bu akımı meydana getiren nedene karşı koyacak yöndedir.

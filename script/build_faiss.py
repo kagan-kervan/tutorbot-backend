@@ -7,7 +7,7 @@ import pickle
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 # Belgeleri oku
-doc_folder = "C:/Users/ahmet/PycharmProjects/tutorbot/tutorbot/tutorbot-backend/documents"
+doc_folder = "../documents"
 documents = []
 file_names = []
 
@@ -26,6 +26,6 @@ index = faiss.IndexFlatL2(embeddings[0].shape[0])
 index.add(embeddings)
 
 # Kaydet
-faiss.write_index(index, "C:/Users/ahmet/PycharmProjects/tutorbot/tutorbot/tutorbot-backend/faiss_index.idx")
-with open("C:/Users/ahmet/PycharmProjects/tutorbot/tutorbot/tutorbot-backend/documents.pkl", "wb") as f:
+faiss.write_index(index, "../faiss_index.idx")
+with open("../documents.pkl", "wb") as f:
     pickle.dump((documents, file_names), f)

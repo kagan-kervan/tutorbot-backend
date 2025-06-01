@@ -1,0 +1,3 @@
+Birinci Dereceden İki Bilinmeyenli Eşitsizlikler: Tanım ve Çözüm
+
+Birinci dereceden iki bilinmeyenli eşitsizlikler (ax + by ≤ c, ax + by < c, ax + by ≥ c, ax + by > c), a, b, c gerçek sayılar ve a, b ≠ 0 olmak üzere tanımlanır. Çözüm kümesi (x, y) sıralı ikililerinden oluşur ve analitik düzlemde boyalı bölgelerle gösterilir. Eşitsizliğin çözümü için öncelikle ax + by = c denklemi çözülerek y değişkeni yalnız bırakılır (y = mx + n). y > mx + n, doğrunun üst bölgesini; y < mx + n, doğrunun alt bölgesini ifade eder. ≤ veya ≥ durumunda doğru düz çizgi, < veya > durumunda ise kesikli çizgi ile gösterilir.

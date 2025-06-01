@@ -1,0 +1,3 @@
+Maddenin Fiziksel Hâlleri: Katı, Sıvı, Gaz ve Plazma
+
+Maddeler doğada katı, sıvı, gaz ve plazma olmak üzere dört farklı fiziksel hâlde bulunur. Katılar belirli şekil ve hacme sahipken, sıvılar belirli hacme ancak belirsiz şekle sahiptir. Gazlar ise hem şekil hem de hacim olarak belirsizdir ve sıkıştırılabilirler. Plazma, yüksek sıcaklıkta gaz halindeki maddenin iyonize olmasıyla oluşur ve serbest elektronlar ile iyonlar içerir. Maddenin hal değişimi sırasında kimyasal yapısı değişmez, sadece taneciklerin arasındaki uzaklık değişir. LPG, LNG gibi sıvılaştırılmış gazlar ve soğutucu akışkanlar endüstride önemli yer tutar. Havadan azot ve oksijen eldesi ise ayrımsal damıtma yöntemiyle gerçekleştirilir.

@@ -1,0 +1,3 @@
+Bağışıklık Sistemi ve Doğal Bağışıklık: Savunma Hatları
+
+Bağışıklık sistemi, vücudu patojenlere (virüs, bakteri vb.) karşı koruyan hücre, doku ve organlardan oluşan bir savunma sistemidir. Bağışıklık, doğal (özgül olmayan) ve kazanılmış (özgül) bağışıklık olmak üzere iki çeşittir. Doğal bağışıklık, doğumdan itibaren var olan ve patojenlere karşı iki savunma hattıyla (birinci ve ikinci) savaşır. Birinci savunma hattı (deri, mukus, lizozim), patojenlerin vücuda girişini engellerken, ikinci savunma hattı (yangısal tepki, interferonlar, fagositoz, doğal katil hücreler) vücuda giren patojenlerle mücadele eder.

@@ -1,0 +1,3 @@
+Matematik: Tanjant ve Kotanjant Fonksiyonları Özeti:
+
+x ekseni ile pozitif yönde α açısı yapan bir doğrunun tanjant eksenini kestiği noktanın ordinatı tanα'yı, kotanjant eksenini kestiği noktanın apsisi ise cotα'yı verir. tanα = sinα/cosα ve cotα = cosα/sinα'dır, dolayısıyla tanα * cotα = 1'dir. Tanjant fonksiyonu f: ℝ - {x | x = π/2 + kπ, k ∈ ℤ} → ℝ ve f(x) = tanx, kotanjant fonksiyonu ise f: ℝ - {x | x = kπ, k ∈ ℤ} → ℝ ve f(x) = cotx şeklinde tanımlanır.

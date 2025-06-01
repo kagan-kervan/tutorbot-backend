@@ -1,0 +1,3 @@
+Limit ve Süreklilik: Tanımlar ve Koşullar
+
+Bir f fonksiyonu x = a noktasında sürekli ise, bu noktadaki limiti fonksiyonun değerine eşit olmalıdır: lim (x→a) f(x) = f(a). Bir fonksiyonun bir aralıkta sürekli olması için, aralıktaki her noktada sürekli olması gerekir. Polinom fonksiyonlar her x gerçek sayısı için süreklidir. f(x) / g(x) şeklindeki rasyonel fonksiyonlar, g(x) ≠ 0 koşulunu sağladığı noktalarda süreklidir.

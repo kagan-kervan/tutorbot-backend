@@ -1,0 +1,3 @@
+Biyoloji: Hücre Döngüsünün Kontrolü Özeti:
+
+Hücre döngüsü genlerle kontrol edilir ve G₁, G₂, M kontrol noktalarında proteinler görev alır. Bu kontrol noktalarında "Dur" veya "Devam et" sinyalleri verilerek hücre bölünmesinin doğru ilerlemesi sağlanır. DNA hasarı, yetersiz besin veya büyüme faktörü durumunda döngü durur. Kontrolsüz hücre bölünmeleri kansere yol açabilir. Kanserli hücreler tümör oluşturur; kötü huylu tümörler metastaz yaparak vücuda yayılır.

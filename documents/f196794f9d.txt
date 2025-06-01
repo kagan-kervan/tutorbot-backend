@@ -1,0 +1,3 @@
+Sinir Sisteminin Bölümleri ve Ön Beyin: Yapı ve İşlev
+
+Sinir sistemi, merkezi (beyin ve omurilik) ve çevresel sinir sistemi olmak üzere ikiye ayrılır. Merkezi sinir sistemi, sinir sisteminin bütünleştirici ve kontrol merkezidir. Beyin, ön beyin, orta beyin ve arka beyin olmak üzere üç ana bölüme ayrılır. Ön beyin, uç beyin (sağ ve sol yarım küre) ve ara beyinden oluşur. Uç beyin; bilinçli davranışlar, hafıza, öğrenme ve duyu alımında rol oynar. Ara beyin; talamus (duyu bilgilerinin toplandığı merkez), hipotalamus (vücut ısısını ve homeostaziyi kontrol eder) ve epitalamus (melatonin salgılar ve uyku-uyanıklık döngüsünü düzenler) kısımlarından oluşur.

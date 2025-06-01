@@ -1,0 +1,3 @@
+Newton'ın Hareket Yasaları ve Net Kuvvetin Hesaplanması
+
+Newton'ın hareket yasaları şunlardır: 1. Eylemsizlik ilkesi (net kuvvet sıfırsa cisim ya durur ya da sabit hızla hareket eder), 2. Dinamiğin temel prensibi (net kuvvet varsa cisim ivmeli hareket yapar), 3. Etki-tepki ilkesi (her etkiye eşit ve zıt bir tepki vardır). Net kuvveti hesaplamak için serbest cisim diyagramı kullanılır. Yatay düzlemde net kuvvet, uygulanan kuvvet ile sürtünme kuvvetinin farkıdır. Eğik düzlemde net kuvvet, ağırlığın eğik düzleme paralel bileşenidir (G*sinθ). Düşey düzlemde net kuvvet, uygulanan kuvvet ile ağırlığın farkıdır.

@@ -1,0 +1,3 @@
+Matematik: Diskriminant Kavramı ve Diskriminantın Kullanılması Özeti:
+
+ax² + bx + c = 0 denkleminin diskriminantı (Δ), Δ = b² - 4ac ifadesidir. Δ > 0 ise denklemin iki farklı reel kökü vardır, Δ = 0 ise denklemin eşit iki kökü vardır (çakışık kökler), Δ < 0 ise denklemin reel kökü yoktur.

@@ -1,0 +1,3 @@
+Fizik: Kuvvet ve Hareket - Tork Özeti:
+
+Tork, kuvvetlerin döndürücü etkisidir (¶ = d¶ x F¶) ve vektörel bir büyüklüktür. Torkun yönü sağ el kuralı ile bulunur. Torkun büyüklüğü, kuvvetin büyüklüğü ile kuvvet doğrultusuna olan dik uzaklığın çarpımıdır (τ = F⋅d). Bir kuvvetin doğrultusu tork alınan noktadan geçiyorsa tork oluşmaz. Toplam tork, aynı yöndeki torkların toplanması ve zıt yöndeki torkların çıkarılmasıyla bulunur. Bir cisim üzerindeki toplam tork sıfır ise tork dengesi vardır ve cisim dönme hareketi yapmaz.

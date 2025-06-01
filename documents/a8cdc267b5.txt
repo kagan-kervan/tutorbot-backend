@@ -1,0 +1,3 @@
+Biyoloji: Kalıtımla İlgili Kavramlar, Olasılık İlkeleri ve Gamet Çeşitlerinin Bulunması Özeti:
+
+Kalıtımda gen, kromozom, lokus, homolog kromozom, alel, homozigot, heterozigot, baskın alel, çekinik alel, genotip ve fenotip gibi kavramlar önemlidir. Olasılık ilkelerine göre bağımsız olaylar birbirini etkilemez ve aynı anda gerçekleşme olasılığı ayrı ayrı olasılıkların çarpımıdır. Gamet çeşitliliği, bağımsız genlerde 2ⁿ formülüyle hesaplanır (n: heterozigot karakter sayısı). Bağlı genlerde ise krossing over yoksa genler birlikte hareket eder, krossing over varsa gamet çeşitliliği artar.

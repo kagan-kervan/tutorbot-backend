@@ -1,0 +1,3 @@
+Matematik: Sayı Problemleri Özeti:
+
+Sayı problemlerini çözmek için sözel ifadeler matematiksel değişkenlere dönüştürülerek denklem kurulur ve bu denklem çözülerek sonuca ulaşılır. Problemler çözülürken veriler ve istenenler belirlenir, uygun değişkenler atanır, denklemler veya eşitsizlikler yazılır ve çözülür.

@@ -1,0 +1,3 @@
+Açısal Momentum: Dönme Hareketinin Temel İlkesi
+
+Açısal momentum, dönen cisimlerin temel bir fiziksel özelliğidir ve hem makro (gezegenler, bisiklet tekerlekleri) hem de mikro (atomlar, moleküller) ölçekte gözlemlenir. Açısal momentum (L), bir cismin dönme hızını ve stabilitesini belirler ve L = r x P formülü ile ifade edilir; burada r konum vektörü ve P çizgisel momentumdur. Açısal momentum, üzerine dış tork uygulanmadığı sürece korunur. Açısal momentumun korunumu, yüzücülerin takla atarken, buz patencilerinin dönüş hızlarını ayarlarken ve Dünya'nın Güneş etrafındaki hareketinde gözlemlenebilir.

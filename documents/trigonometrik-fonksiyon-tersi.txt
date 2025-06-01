@@ -1,0 +1,3 @@
+Trigonometrik Fonksiyonların Tersi Özeti:
+
+Sinüs fonksiyonunun tersi (arcsinx), [-1, 1] aralığından [-π/2, π/2] aralığına tanımlıdır ve siny = x şartını sağlar. Kosinüs fonksiyonunun tersi (arccosx), [-1, 1] aralığından [0, π] aralığına tanımlıdır ve cosy = x şartını sağlar. Tanjant fonksiyonunun tersi (arctanx), tüm reel sayılardan (-π/2, π/2) aralığına tanımlıdır ve tany = x şartını sağlar. Bu ters fonksiyonlar, trigonometrik fonksiyonların bire bir ve örten olduğu uygun aralıklar seçilerek tanımlanmıştır.

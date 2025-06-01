@@ -1,0 +1,3 @@
+İş Kavramı ve Enerji Türleri Özeti:
+
+İş, fiziksel anlamda bir enerji değişimidir (W = ΔE). Bir kuvvetin yaptığı iş, kuvvetin hareket doğrultusundaki bileşeni ile yer değiştirmenin çarpımıdır (W = F⋅x⋅cosα). Sürtünmesiz ortamda yapılan iş, kinetik enerjiye (W = Ek) veya potansiyel enerjiye (W = Ep = mgh) dönüşür. Sürtünmeli ortamlarda ise yapılan iş ısıya (Q) dönüşebilir. Esneklik potansiyel enerjisi, bir yayı sıkıştırmak veya uzatmak için yapılan işe eşittir (Ep = (1/2)kx²). Kuvvet-yol grafiklerinde alan, yapılan işi gösterir. Hareket doğrultusuna dik kuvvetler iş yapmaz.

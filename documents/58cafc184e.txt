@@ -1,0 +1,3 @@
+Biyoloji: Osmoz Özeti:
+
+Osmoz, suyun çok yoğun olduğu ortamdan az yoğun olduğu ortama, seçici geçirgen bir zardan geçişidir. Osmotik basınç, osmoz olayında net su geçişini durdurmak için uygulanan basınçtır ve emme kuvveti oluşturur. Turgor basıncı ise hücre içindeki suyun hücre zarına yaptığı basınçtır. İzotonik ortamda hücre hacmi değişmez, hipertonik ortamda hücre su kaybederek plazmoliz olur, hipotonik ortamda ise hücre su alarak turgor durumuna geçer. Hayvan hücreleri hipotonik ortamda hemoliz olabilir.

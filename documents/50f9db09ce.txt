@@ -1,0 +1,3 @@
+Matematik: Rutin Olmayan Problemler Özeti:
+
+Rutin olmayan problemler, bilinen yöntem veya formüllerle çözülemeyen, verilerin analizini ve yaratıcı çözümler gerektiren problemlerdir. Çözümünde sayısal mantık, örüntüler, sayma ve geometri bilgileri kullanılır. Problem çözme adımları: verileri belirleme, istenileni anlama, şekil çizme, liste yapma, sistematik düşünme ve akıl yürütmedir.

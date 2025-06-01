@@ -1,0 +1,3 @@
+Yatay Atış Hareketi: Yatay ve Düşey Bileşenler
+
+Yatay atış hareketi, bir cismin yatay hızla atılmasıyla oluşan ve hem yatayda sabit hızlı hareket hem de düşeyde serbest düşme hareketi yaptığı bir harekettir. Yatayda cisme bir kuvvet etki etmediği için hız sabittir (x = v₀ * t). Düşeyde ise yerçekimi etkisiyle cisim hızlanır (h = (1/2) * g * t², v_y = g * t). Havada kalma süresi yalnızca yüksekliğe (h) ve yerçekimi ivmesine (g) bağlıdır, ilk hıza ve kütleye bağlı değildir.

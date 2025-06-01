@@ -1,0 +1,3 @@
+Mendel İlkeleri ve Çaprazlamalar: Genetik Aktarımın Temel Kuralları
+
+Gregor Mendel, bezelyelerle yaptığı çalışmalarla genetiğin temellerini atmıştır. Mendel'in ilkeleri şunlardır: Baskınlık ilkesi (bir karakterin farklı özelliklerine ait genlerden sadece biri etkisini gösterir), Benzerlik ilkesi (farklı arı döllerin çaprazlanması sonucu F1 dölü benzer olur), Ayrılma ilkesi (aleller eşit olasılıkla gametlere ayrılır), Bağımsız Açılım ilkesi (farklı karakterlere ait genler bağımsız olarak gametlere aktarılır). Monohibrit çaprazlama bir karakter, dihibrit çaprazlama iki karakter bakımından heterozigot bireylerin çaprazlanmasıdır. Kontrol çaprazlaması, baskın fenotipli bireyin genotipini belirlemek için kullanılır (homozigot çekinikle çaprazlanır).

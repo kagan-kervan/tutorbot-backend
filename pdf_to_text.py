@@ -31,9 +31,10 @@ def process_pdfs_in_paths(paths):
 
 # Example usage
 paths = [
-    "C:/Users/ahmet/PycharmProjects/tutorbot-backend/kaynaks/biyoloji",
-    "C:/Users/ahmet/PycharmProjects/tutorbot-backend/kaynaks/basic-kimya",
-    "C:/Users/ahmet/PycharmProjects/tutorbot-backend/kaynaks/basic-math"
+    "kaynaks/biyoloji",
+    "kaynaks/basic-kimya",
+    "kaynaks/basic-math",
+    "kaynaks/diger"
 ]
 
 process_pdfs_in_paths(paths)

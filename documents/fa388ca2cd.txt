@@ -1,0 +1,3 @@
+Türev: Anlık Değişim ve Geometrik Yorumu
+
+Türev, bir fonksiyonun bir noktadaki anlık değişim oranını ifade eder ve bu oran, aynı noktadaki teğetinin eğimine eşittir. Bir f fonksiyonunun x = a noktasındaki türevi, f'(a) = lim (x→a) [f(x) - f(a)] / (x - a) şeklinde tanımlanır. Türev, fonksiyonların incelenmesinde, fizikte, mühendislikte ve daha birçok alanda kullanılır. Türevin modern kavramı 17. yüzyılda Isaac Newton ve Gottfried Wilhelm Leibniz tarafından bağımsız olarak geliştirilmiştir.

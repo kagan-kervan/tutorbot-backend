@@ -1,0 +1,3 @@
+Kimya: Kimyasal Türler ve Kimyasal Türler Arası Etkileşimlerin Sınıflandırılması Özeti:
+
+Kimyasal türler arasındaki etkileşimler, bağlanan türlere ve bağın sağlamlığına göre sınıflandırılır. Atomlar arası bağlar (iyonik, kovalent, metalik) güçlü etkileşimlerdir, moleküller arası bağlar (Van der Waals kuvvetleri, hidrojen bağı) zayıf etkileşimlerdir. Etkileşim türünü belirleyen faktörler, çekirdek-elektron arasındaki çekim kuvvetleri ile elektron-elektron ve çekirdek-çekirdek arasındaki itme kuvvetleridir. Moleküller arası bağların tamamında zayıf etkileşim kuvvetleri vardır.

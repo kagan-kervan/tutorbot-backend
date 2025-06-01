@@ -1,0 +1,3 @@
+Birim Çemberde Trigonometrik Fonksiyonlar Özeti:
+
+Birim çember üzerindeki bir P(a, b) noktasını merkeze birleştiren doğrunun x ekseniyle yaptığı açı α ise, a = cosα ve b = sinα olur. Bu durumda P noktası (cosα, sinα) şeklinde ifade edilir ve cos²α + sin²α = 1 eşitliği sağlanır. Kosinüs ve sinüs fonksiyonları, tüm reel sayılar için sırasıyla [-1, 1] aralığında değerler alır.

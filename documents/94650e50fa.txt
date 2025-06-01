@@ -1,0 +1,3 @@
+Matematik: Belirsiz İntegral Özeti:
+
+F(x)'in türevi f(x) ise, F(x)'e f(x)'in belirsiz integrali denir ve ∫f(x)dx = F(x) + c şeklinde gösterilir, burada c integral sabitidir. ∫xⁿdx = (xⁿ⁺¹)/(n+1) + c (n ≠ -1). ∫af(x)dx = a∫f(x)dx ve ∫[f(x) ± g(x)]dx = ∫f(x)dx ± ∫g(x)dx özellikleri geçerlidir.

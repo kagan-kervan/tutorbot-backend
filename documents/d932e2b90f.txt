@@ -1,0 +1,3 @@
+Mitoz: Büyüme, Onarım ve Kalıtsal Devamlılığın Temeli
+
+Mitoz, ökaryotik hücrelerde gerçekleşen bir bölünme şeklidir ve tek hücrelilerde üremeyi, çok hücrelilerde ise büyüme, gelişme ve doku onarımını sağlar. İnterfazla başlayıp profaz, metafaz, anafaz ve telofaz evrelerinden oluşan karyokinez (çekirdek bölünmesi) ile devam eder. Ardından sitokinez (sitoplazma bölünmesi) gerçekleşerek iki özdeş yavru hücre oluşur. Bu süreç, ana hücredeki genetik bilginin yavru hücrelere eksiksiz aktarılmasını sağlayarak kalıtsal devamlılığı korur.

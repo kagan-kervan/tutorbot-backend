@@ -1,0 +1,3 @@
+Kütle ve Ağırlık Merkezi: Özet
+
+Ağırlık, bir cisme etki eden yerçekimi kuvvetidir ve yönü yerin merkezine doğrudur. Ağırlık merkezi, bu kuvvetlerin bileşkesinin uygulandığı noktadır. Küçük cisimlerde kütle merkezi ile ağırlık merkezi aynı yerde kabul edilirken, yüksek cisimlerde ağırlık merkezi kütle merkezinin biraz altındadır. Bir cisim, ağırlık merkezinden asıldığında veya ağırlık vektörünün doğrultusu üzerinde desteklendiğinde dengede kalır. Birleştirilmiş cisimlerin ağırlık merkezi, her bir parçanın ağırlık vektörlerinin bileşkesinin uygulama noktasıdır ve koordinat sistemi kullanılarak hesaplanabilir.

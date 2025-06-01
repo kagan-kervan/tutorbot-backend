@@ -1,0 +1,3 @@
+Sinir Doku: Nöronlar ve Glia Hücreleri
+
+Sinir doku, nöronlar (sinir hücreleri) ve glia hücrelerinden oluşur. Nöronlar, uyaranları algılayıp ileten hücrelerdir ve duyu, motor ve ara nöronlar olmak üzere üç tiptir. Nöronlar; hücre gövdesi (soma), dendritler (uyarıları alır) ve akson (uyarıları iletir) kısımlarından oluşur. Aksonlar, miyelin kılıf (Schwann hücreleri veya oligodendrositler tarafından oluşturulur) ile çevrilidir ve Ranvier boğumlarına sahiptir. Glia hücreleri, nöronları destekler ve dokuyu korur (astrositler, oligodendrositler, Schwann hücreleri, mikroglia, ependim hücreleri).

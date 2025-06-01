@@ -1,0 +1,3 @@
+Olasılıkta Temel Kavramlar: Deney, Çıktı, Örnek Uzay ve Olaylar
+
+Olasılıkta temel kavramlar şunlardır: Deney (tekrarlanabilen ve farklı sonuçlar verebilen süreçler), Çıktı (bir deneyde elde edilen her bir sonuç), Örnek Uzay (bir deneyin tüm çıktılarının kümesi), Olay (örnek uzayın her bir alt kümesi). Ayrık olaylar ortak elemanı olmayan, ayrık olmayan olaylar ise ortak elemanı olan olaylardır. Bir olayın tümleyeni, o olayın dışındaki tüm çıktıları içerir. İmkansız olay gerçekleşmesi mümkün olmayan, kesin olay ise gerçekleşmesi kesin olan olaylardır.

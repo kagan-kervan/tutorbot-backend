@@ -1,0 +1,3 @@
+Kimya: Aromatik Hidrokarbonlar Özeti:
+
+Aromatik hidrokarbonlar (arenler), kendilerine has kokuları olan ve benzen halkası içeren bileşiklerdir. Benzendeki bağlar sürekli yer değiştirir (rezonans) ve bu kararlı yapısı nedeniyle katılma reaksiyonu yerine yer değiştirme reaksiyonu verir. Aromatik bileşiklerden bir hidrojen çıkarılmasıyla aril grubu oluşur. Benzen, toluen, fenol ve naftalin önemli aromatik bileşiklerdir ve çeşitli endüstriyel uygulamalarda kullanılırlar.

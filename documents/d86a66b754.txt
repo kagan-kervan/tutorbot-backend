@@ -1,0 +1,3 @@
+Mutlak Değerli Denklemler ve Eşitsizlikler: Temel Kavramlar ve Çözüm Yolları
+
+Bu konu, mutlak değerli denklemlerin ve eşitsizliklerin çözüm yöntemlerini kapsamaktadır. Mutlak değerin tanımından yola çıkarak, denklemlerde değişkenin mutlak değer içindeki ve dışındaki durumları incelenir ve uygun çözüm kümeleri bulunur. Eşitsizliklerde ise, mutlak değerin pozitif ve negatif durumlarına göre çözüm aralıkları belirlenir ve bu aralıklar birleştirilerek genel çözüm kümesine ulaşılır. Denklemlerde bulunan değerlerin sağlaması kontrol edilmelidir.

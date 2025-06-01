@@ -1,0 +1,3 @@
+Eş Baskınlık, Çok Alellilik ve Kan Grupları: Genetik Temeller
+
+Eş baskınlıkta, bir karakteri belirleyen farklı aleller fenotipte eşit etki gösterir (örneğin, MN kan grubu). Çok alellilik, bir karakteri etkileyen ikiden fazla alelin varlığıdır (örneğin, tavşanlarda kürk rengi, insanlarda kan grupları). İnsan kan grupları (A, B, AB, O), A ve B alellerinin eş baskın, O alelinin çekinik olduğu çok alelliliğe örnektir. Rh faktörü (Rh+ veya Rh-) de kan transfüzyonlarında önemlidir. Anne Rh-, bebek Rh+ olduğunda kan uyuşmazlığı görülebilir.

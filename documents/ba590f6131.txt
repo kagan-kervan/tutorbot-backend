@@ -1,0 +1,3 @@
+Noktalama İşaretleri 3: Özet
+
+Bu özet, eğik çizgi, tırnak işareti, ters eğik çizgi, tek tırnak işareti, denden işareti, yay ayraç ve kesme işaretinin kullanım alanlarını kapsar. Eğik çizgi dizeleri ayırmada, adres yazımında, tarihlerin yazımında ve matematiksel işlemlerde kullanılırken, tırnak işareti alıntıları, vurgulanmak istenen sözleri ve eser adlarını belirtir. Yay ayraç ek bilgileri, tiyatro eserlerindeki hareketleri ve alıntıdaki eksik kısımları göstermede kullanılır. Kesme işareti ise özel adlara getirilen ekleri, kısaltmaları ve sayıları ayırmada kullanılır.

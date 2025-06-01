@@ -1,0 +1,3 @@
+Canlılardaki Beslenme Şekilleri: Ototrof, Heterotrof ve Miksotrof
+
+Canlılar beslenme şekillerine göre ototrof (üreticiler), heterotrof (tüketiciler) ve hem ototrof hem heterotrof (miksotroflar) olarak ayrılır. Ototroflar inorganik maddelerden organik madde sentezi yaparken (fotosentez veya kemosentez), heterotroflar besinlerini dışarıdan hazır alırlar (holozoik veya ayrıştırıcı). Holozoik beslenenler otçul, etçil veya hem etçil hem otçul olabilir. Miksotroflar ise hem fotosentez yapıp hem de dışarıdan besin alabilirler (örneğin, öglena).

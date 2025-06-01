@@ -1,0 +1,3 @@
+Elektrik Alan: Tanım, Özellikler ve Elektrik Alan Çizgileri
+
+Elektrik alan, elektrik yüklü bir cismin çevresindeki bir noktada oluşturduğu ve o noktadaki bir test yüküne etki eden kuvvettir. Elektrik alan (E), yük miktarıyla doğru, uzaklığın karesiyle ters orantılıdır (E = k * q / d²). Birden fazla yükün oluşturduğu bileşke elektrik alan, vektörel olarak hesaplanır. Elektrik alan çizgileri pozitif yükten dışarıya, negatif yüke doğru olur, yüzeye diktir, şiddetin arttığı yerde sık, azaldığı yerde seyrektir, birbirini kesmez ve elektrik alan vektörü, o noktadan geçen alan çizgisine teğettir.

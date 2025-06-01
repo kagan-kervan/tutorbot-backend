@@ -1,0 +1,3 @@
+Fizik: Elektrik ve Manyetizma - Manyetik Alan Özeti:
+
+Akım taşıyan bir telin çevresinde manyetik alan oluşur. Düz telde manyetik alan şiddeti B = K⋅2⋅i/d formülüyle bulunur ve yönü sağ el kuralıyla belirlenir. Çember şeklindeki telin merkezindeki manyetik alan B = N⋅K⋅2π⋅i/r'dir. Akım makarasının (bobin) merkezindeki manyetik alan B = N⋅K⋅4π⋅i/L formülüyle bulunur. Bileşke manyetik alan, her bir manyetik alanın vektörel toplamıdır.

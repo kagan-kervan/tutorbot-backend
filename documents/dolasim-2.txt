@@ -1,0 +1,3 @@
+Kan Damarları ve Madde Alışverişi: Atardamar, Kılcal Damar, Toplardamar ve Doku Sıvısı
+
+Kan, damarlardan oluşan kapalı bir sistemde hareket eder ve bu sistemde atardamarlar, kılcal damarlar ve toplardamarlar bulunur. Atardamarlar, kalpten organlara kan taşırken, toplardamarlar kanı kalbe geri getirir. Kılcal damarlar, atardamar ve toplardamar arasında yer alır ve kan ile doku sıvısı arasındaki madde alışverişini sağlar. Kılcal damarlardaki madde alışverişi, kan basıncı ve ozmotik basınç arasındaki denge ile kontrol edilir (Starling hipotezi). Kan basıncı, maddelerin kandan doku sıvısına geçmesini sağlarken, ozmotik basınç maddeleri kana geri çeker. Lenf sistemi, kılcal damarlardan doku sıvısına geçen fazla sıvıyı kana geri taşır.

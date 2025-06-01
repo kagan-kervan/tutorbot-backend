@@ -1,0 +1,3 @@
+Fonksiyonun Tersi Özeti:
+
+Bire bir ve örten bir f: A → B fonksiyonunun tersi olan g: B → A fonksiyonu, (gof)(x) = x ve (fog)(y) = y şartlarını sağlar ve g(x) = f⁻¹(x) şeklinde gösterilir. Bir fonksiyonun tersinin var olması için bire bir ve örten olması gerekir. Tersi bulunurken x, y cinsinden yazılır ve değişkenler değiştirilir. Fonksiyonun tersi ile bileşkesi birim fonksiyondur (fof⁻¹ = I). Bileşke fonksiyonun tersi (fog)⁻¹ = g⁻¹of⁻¹ şeklinde alınır. f(x) = (ax+b)/(cx+d) formundaki fonksiyonun tersi f⁻¹(x) = (-dx-b)/(cx-a) olur. Bir fonksiyon ve tersinin grafikleri y = x doğrusuna göre simetriktir.

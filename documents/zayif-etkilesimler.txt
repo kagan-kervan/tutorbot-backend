@@ -1,0 +1,3 @@
+Zayıf Etkileşimler Özeti:
+
+Zayıf etkileşimler, molekülleri bir arada tutan ve bağ enerjisi 40 kJ/mol'den düşük olan etkileşimlerdir. Van der Waals kuvvetleri (dipol-dipol, iyon-dipol, dipol-indüklenmiş dipol, iyon-indüklenmiş dipol ve London kuvvetleri) ve hidrojen bağı bu gruba girer. London kuvvetleri en zayıf etkileşim olup, elektron sayısı arttıkça molekülün kaynama noktası artar. Hidrojen bağı ise H atomunun elektronegatifliği yüksek F, O, N atomlarıyla yaptığı moleküller arasında oluşur ve moleküller arası etkileşimler içinde en güçlü olanıdır.

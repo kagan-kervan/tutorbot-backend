@@ -1,0 +1,3 @@
+Biçim Bilgisi 1: Özet
+
+Bu özet, kök, çekim ekleri ve yapım ekleri konularını kapsar. Kök, bir sözcüğün anlamlı en küçük parçasıdır ve isim/fiil kökü olarak ikiye ayrılır. İkili kökler ise kökteş (anlam ilişkili) veya sesteş (anlam ilişkisiz) olabilir. Çekim ekleri isim ve fiil çekim ekleri olarak ikiye ayrılır. İsim çekim ekleri hâl ekleri (belirtme, yönelme, bulunma, ayrılma), tamlayan/tamlanan ekleri ve çoğul ekidir. Fiil çekim ekleri kip (haber/dilek) ve kişi ekleridir. Yapım ekleri ise eklendiği sözcüğün anlamını, yapısını ve türünü değiştiren eklerdir; isimden isim, isimden fiil, fiilden fiil ve fiilden isim yapım ekleri bulunur.

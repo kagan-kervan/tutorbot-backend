@@ -1,0 +1,3 @@
+Matematik: Türev Alma Kuralları Özeti:
+
+Sabit fonksiyonun türevi sıfırdır (f(x) = c ise f'(x) = 0). Kuvvet fonksiyonunun türevi f(x) = axⁿ ise f'(x) = an*xⁿ⁻¹ olur. Bir fonksiyonun ikinci mertebeden türevi, türevinin türevidir. Bir fonksiyonun bir noktada türevlenebilir olması için o noktada sürekli olması ve sağdan ve soldan türevlerinin eşit olması gerekir. Sürekli olmayan bir fonksiyonun o noktada türevi yoktur. Kırılma noktalarında fonksiyon sürekli olsa bile türev yoktur.

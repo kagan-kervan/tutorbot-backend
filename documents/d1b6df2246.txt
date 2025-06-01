@@ -1,0 +1,3 @@
+Biçim Bilgisi 2: Özet
+
+Sözcükler yapı bakımından basit, türemiş ve birleşik olmak üzere üçe ayrılır. Basit sözcükler yapım eki almamışken, türemiş sözcükler en az bir yapım eki almıştır. Birleşik sözcükler ise en az iki sözcüğün bir araya gelmesiyle oluşur ve birleşik isimler ile birleşik fiiller olarak sınıflandırılır. Birleşik fiiller anlamca kaynaşmış, yardımcı eylemle kurulan ve kurallı birleşik fiiller (yeterlik, tezlik, sürerlik, yaklaşma) şeklinde gruplandırılır.

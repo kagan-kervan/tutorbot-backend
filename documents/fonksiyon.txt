@@ -1,37 +1,10 @@
-MMAATTEEMMAATTİİKK
-KKOONNUU
-FFOONNKKSSİİYYOONN KKAAVVRRAAMMII VVEE GGÖÖSSTTEERRİİMMİİ
-ÖÖZZEETTİİ
-TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT TTYYTT
-• A ve B boş kümeden farklı iki küme olmak üzere A kümesinin her bir elemanını B kümesinin bir ve yalnız bir ele-
-manına eşleyen ilişkiye A dan B ye tanımlı fonksiyon denir.
-f
-A B
-. a . 3
-. b . 5
-. c . –1
-• A dan B ye tanımlanan f fonksiyonu f: A B şeklinde gösterilir.
-(x, y) f y = f(x)
-→
-şeklinde yazılır. Bu gösterimde x bağımsız değişken, y bağımlı değişken olarak adlandırılır.
-∈ ⇒
-• Fonksiyonlar genellikle f, g, h gibi küçük harflerle gösterilir.
-• f: A B gösteriminde A kümesine tanım kümesi, B kümesine değer kümesi adı verilir. A kümesindeki elemanla-
-rın B kümesinde eşleştiği elemanların oluşturduğu f(A) kümesine ise görüntü kümesi adı verilir.
-→
-•
-f
-A B
-A'nın görüntü
-kümesi f(A)
-.x . f(x)
-A ® Tanım kümesi
-B ® Değer kümesi
-f(A) ® Görüntü kümesi
-• Görüntü kümesi her zaman değer kümesinin bir alt kümesidir. f(A) B şeklinde gösterilir.
-⊆
-DİKKAT!
-• A ve B boş kümeden farklı birer küme ve s(A) = m ve s(B) = n olmak üzere A kümesinden B kümesine tanımlana-
-bilecek fonksiyonların sayısı nm ifadesi ile hesaplanır.
-MMAATTEEMMAATTİİKK -- TTYYTT MEBİ KONU ÖZETLERİ 11
+A ve B  iki küme olmak üzere ve F {\displaystyle F}, A × B {\displaystyle A\times B} kartezyen çarpımının şu özelliğini sağlayan bir alt kümesi olmak üzere:
 
+        Her x ∈ A {\displaystyle x\in A} için, ( x , y ) ∈ F {\displaystyle (x,\,y)\in F} ilişkisini sağlayan
+        bir tane y ∈ B {\displaystyle y\in B} elemanı vardır.
+
+Bu durumda ( A , B , F ) {\displaystyle (A,\,B,\,F)} üçlüsüne fonksiyon adı verilir. A {\displaystyle A}, ( A , B , F ) {\displaystyle (A,\,B,\,F)} fonksiyonunun tanım kümesidir, B {\displaystyle B} ise varış (görüntü) kümesidir.
+
+( A , B , F ) {\displaystyle (A,\,B,\,F)} fonksiyonuna f {\displaystyle f} adı verilirse, verilen bir x ∈ A {\displaystyle x\in A} için B {\displaystyle B}'nin ( x , y ) ∈ F {\displaystyle (x,y)\in F} ilişkisini sağlayan tek y {\displaystyle y} elemanı f ( x ) {\displaystyle f(x)} olarak gösterilir. Kimi zaman f ( x ) {\displaystyle f(x)} yerine f x {\displaystyle fx} yazıldığı da olur. Yani her x ∈ X {\displaystyle x\in X} için ( x , f x ) ∈ F {\displaystyle (x,fx)\in F} olur. Ayrıca F {\displaystyle F} kümesine f {\displaystyle f} fonksiyonunun grafiği adı verilir.[2]
+
+Fonksiyonu matematiksel olarak tanımlamak için bir kural zorunluluğu yoktur. Ama F {\displaystyle F}'nin bir küme olma zorunluluğu vardır. 

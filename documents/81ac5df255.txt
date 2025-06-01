@@ -1,0 +1,3 @@
+Matematik: Polinomlarda Bölme İşlemi Özeti:
+
+P(x) polinomunun Q(x) polinomuna bölünmesinde (der[P(x)] ≥ der[Q(x)]), P(x) = Q(x) * B(x) + K(x) eşitliği geçerlidir. Burada B(x) bölüm, K(x) kalan polinomudur ve der[K(x)] < der[Q(x)] olmalıdır. Eğer K(x) = 0 ise P(x), Q(x)'e tam bölünür. Bölme işleminde polinomlar değişkenin azalan kuvvetlerine göre yazılır, bölünenin en büyük dereceli terimi bölenin en büyük dereceli terimine bölünerek bölümün ilk terimi bulunur ve işlem kalanın derecesi bölenin derecesinden küçük olana kadar devam eder.

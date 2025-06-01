@@ -1,0 +1,3 @@
+Matematik: Polinomlarda Toplama, Çıkarma ve Çarpma İşlemleri Özeti:
+
+Polinomlarda toplama ve çıkarma işlemleri, aynı dereceli terimlerin katsayıları toplanarak veya çıkarılarak yapılır. der[P(x)] = n, der[Q(x)] = m ve n ≥ m olmak üzere, der[P(x) ± Q(x)] = n'dir. Çarpma işleminde ise, her terim diğer polinomun her terimiyle çarpılır ve benzer terimler birleştirilir; der[P(x) * Q(x)] = n + m, der[k * P(x)] = n, der[P(xᵏ)] = n * k, der[Pᵏ(x)] = n * k ve der[P(Q(x))] = m * n olur.

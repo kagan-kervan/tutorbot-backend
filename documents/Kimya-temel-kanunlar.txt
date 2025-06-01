@@ -1,0 +1,3 @@
+Kimyanın Temel Kanunları Özeti:
+
+Kütlenin Korunumu Kanunu (Lavoisier) kimyasal tepkimelerde reaktiflerin kütlesinin ürünlerin kütlesine eşit olduğunu belirtir. Sabit Oranlar Kanunu (Proust) bir bileşiği oluşturan elementlerin kütle oranının sabit olduğunu ifade eder. Katlı Oranlar Kanunu (Dalton) aynı iki elementten oluşan birden fazla bileşikte, bir elementin sabit miktarıyla birleşen diğer elementlerin miktarları arasında tam sayılarla ifade edilen bir oran olduğunu söyler. Bu kanunlar kimyasal hesaplamaların temelini oluşturur.

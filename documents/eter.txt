@@ -1,0 +1,3 @@
+Eterler: Özellikleri, Adlandırma ve Kullanım Alanları
+
+Eterler, genel formülleri CₙH₂ₙ₊₂O olan, su molekülündeki iki hidrojen atomunun alkil gruplarıyla yer değiştirmesiyle oluşan bileşiklerdir. Polar yapılıdırlar ve molekülleri arasında dipol-dipol etkileşimleri bulunur. Simetrik ve asimetrik olarak sınıflandırılırlar ve adlandırmaları alkoksi alkan şeklinde yapılır. Kaynama noktaları aynı karbon sayılı alkollerden düşüktür. Organik reaksiyonlarda inert çözücüler olarak tercih edilirler ve organik bileşiklerin özütlenmesinde, analitik kimyada ve tıpta kullanılırlar. Dietil eter (lokman ruhu) kas gevşetici etkiye sahiptir.

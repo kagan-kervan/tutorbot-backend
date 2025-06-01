@@ -1,0 +1,3 @@
+İkinci Dereceden Fonksiyonlar (Parabol) Özeti:
+
+f(x) = ax² + bx + c şeklindeki fonksiyonlara ikinci dereceden bir değişkenli fonksiyon denir. Bu fonksiyonların grafikleri parabol olarak adlandırılır. Eğer a > 0 ise parabolün kolları yukarı doğru, a < 0 ise aşağı doğru bakar. |a| değeri arttıkça parabolün kolları birbirine yaklaşır.

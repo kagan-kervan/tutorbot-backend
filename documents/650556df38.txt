@@ -1,0 +1,3 @@
+Fizik: Kuvvet ve Hareket - Bir Boyutta Sabit İvmeli Hareket Özeti:
+
+Bir boyutta sabit ivmeli hareket, net kuvvetin sabit olduğu durumlarda meydana gelir. Cisim hızlanıyorsa düzgün hızlanan, yavaşlıyorsa düzgün yavaşlayan hareket yapar. Hız, konum ve ivme grafikleri ile ilgili analizler yapılır. Düzgün hızlanan hareket için x = v₀t + (1/2)at², v = v₀ + at ve v² = v₀² + 2ax denklemleri kullanılır. Düzgün yavaşlayan hareket için ise benzer denklemler (işaretler ters olabilir) geçerlidir.

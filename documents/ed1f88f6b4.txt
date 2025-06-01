@@ -1,0 +1,3 @@
+Kimyanın Sembolik Dili: Elementler, Bileşikler ve Karışımlar
+
+Kimyada ortak bir dil kullanmak, bilimin evrenselliğiyle uyumludur. Maddeler, saf maddeler (elementler ve bileşikler) ve karışımlar (homojen ve heterojen) olarak sınıflandırılır. Elementler sembollerle, bileşikler ise formüllerle gösterilir. Elementler aynı cins atomlardan oluşurken, bileşikler farklı cins atomların belirli oranlarda birleşmesiyle oluşur. Karışımlar ise sembol veya formüllerle gösterilemez. Bileşikler, kendilerini oluşturan elementlerin özelliklerini taşımazlar.

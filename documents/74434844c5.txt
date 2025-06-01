@@ -1,0 +1,3 @@
+Biyoloji: Hücre Zarından Madde Geçişleri, Basit Difüzyon, Kolaylaştırılmış Difüzyon Özeti:
+
+Hücre zarından madde geçişleri, küçük ve büyük moleküllerin taşınması şeklinde olur. Küçük moleküller pasif taşıma (difüzyon, osmoz) veya aktif taşıma ile taşınır. Pasif taşımada ATP harcanmaz, enerji moleküllerin kinetik enerjisinden sağlanır. Basit difüzyonda gazlar ve yağda çözünen maddeler zar proteinleri olmadan fosfolipit tabakadan geçer. Kolaylaştırılmış difüzyonda ise suda çözünen maddeler protein taşıyıcılar veya kanallar aracılığıyla geçer. Difüzyon hızı, yoğunluk farkı, sıcaklık, molekül ağırlığı, por sayısı, yağda çözünme yeteneği, elektriksel yük ve difüzyon yüzeyi gibi faktörlerden etkilenir.

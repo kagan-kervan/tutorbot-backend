@@ -1,0 +1,3 @@
+Biyoloji: ATP (Adenozin trifosfat) Özeti:
+
+ATP, canlıların yaşamsal faaliyetleri için kullandığı enerji molekülüdür ve nükleotit yapılıdır. Adenin, riboz ve üç fosfat grubundan oluşur. ADP'ye bir fosfat eklenmesiyle ATP sentezlenir (fosforilasyon), ATP'den bir fosfat ayrılmasıyla enerji açığa çıkar (defosforilasyon). ATP hücrede üretilir ve tüketilir, depolanamaz ve hücreden hücreye aktarılamaz.

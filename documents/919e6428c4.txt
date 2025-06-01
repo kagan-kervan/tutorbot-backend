@@ -1,0 +1,3 @@
+Matematik: Tepe Noktası, Simetri Ekseni ve Görüntü Kümesi Özeti:
+
+f(x) = ax² + bx + c fonksiyonunun grafiği olan parabolün artanlıktan azalanlığa veya tersine geçtiği nokta tepe noktasıdır (T(r, k)). x = r doğrusu simetri eksenidir, r = -b/2a ve k = f(r) formülleriyle bulunur. Parabolün en büyük veya en küçük değeri k'dir. ax² + bx + c = 0 denkleminin kökleri Δ = b² - 4ac ile bulunur. Δ < 0 ise parabol x eksenini kesmez, Δ = 0 ise teğettir, Δ > 0 ise iki noktada keser.

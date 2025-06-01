@@ -1,0 +1,3 @@
+Fotosentez Reaksiyonları: Işığa Bağımlı ve Bağımsız Evreler
+
+Fotosentez, ışıktan bağımlı ve ışıktan bağımsız (Calvin döngüsü) reaksiyonları olmak üzere iki evrede gerçekleşir. Işığa bağımlı reaksiyonlar kloroplastların granalarında (tilakoit zarlarında) gerçekleşir ve ışık enerjisi kimyasal enerjiye dönüştürülerek ATP üretilir. Bu evrede suyun fotoliziyle oksijen açığa çıkar ve NADP+ indirgenerek NADPH oluşur. Işıktan bağımsız reaksiyonlar kloroplastın stromasında gerçekleşir ve CO₂ ATP ve NADPH kullanılarak şekere indirgenir (PGAL oluşumu).

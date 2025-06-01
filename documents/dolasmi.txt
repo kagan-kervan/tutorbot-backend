@@ -1,0 +1,3 @@
+Kalp Döngüsü, Ritim Kontrolü ve Kan Dolaşımı: Sistemik ve Pulmoner Dolaşım
+
+Kalp döngüsü, kulakçıkların ve karıncıkların kasılıp gevşemesiyle gerçekleşir; sistol (kasılma) ve diyastol (gevşeme) evrelerini içerir ve yaklaşık 0.85 saniye sürer. Kalp ritmi, sinoatriyal düğüm (SA) tarafından kontrol edilir ve atrioventriküler düğüm (AV), His demetleri ve Purkinje lifleri aracılığıyla karıncıklara yayılır. Kalp atış hızını CO2, hormonlar, sıcaklık ve bazı kimyasallar etkileyebilir. Kan dolaşımı, küçük (pulmoner) ve büyük (sistemik) olmak üzere iki çeşittir: Pulmoner dolaşım, sağ karıncıktan akciğerlere CO2'i gönderip O2'i alarak sol kulakçığa geri getirir; sistemik dolaşım ise sol karıncıktan vücuda O2'i gönderip CO2'i alarak sağ kulakçığa geri getirir.

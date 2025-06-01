@@ -1,0 +1,3 @@
+Kimya: Homojen ve Heterojen Karışımlar - II Özeti:
+
+Çözelti derişimleri, çözünmüş madde miktarına göre derişik veya seyreltik olarak tanımlanır. Derişim, kütlece yüzde, hacimce yüzde ve ppm (milyonda bir kısım) gibi birimlerle ifade edilir. Kütlece yüzde derişim, 100 gram çözeltideki çözünen madde miktarıdır. Seyreltme veya karıştırma işlemlerinde m₁⋅Y₁ = m₂⋅Y₂ eşitliği kullanılır. Koligatif özellikler, çözeltinin çözünen madde miktarına bağlı olarak değişen özellikleridir (kaynama noktası yükselmesi, donma noktası düşmesi).

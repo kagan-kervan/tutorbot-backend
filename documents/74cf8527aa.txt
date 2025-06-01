@@ -1,0 +1,3 @@
+Türkçe: Yazım Kuralları 1 Özeti:
+
+Cümleler, dizeler ve özel adlar büyük harfle başlar. Özel adlardan önce veya sonra gelen unvanlar, lakaplar, akrabalık adları (lakap olarak kullanıldığında) büyüktür. Hayvan adları, millet, dil, devlet, din adları, gezegen adları, düşünce akımları, yer adları büyüktür. Kurum, kanun adları büyük harfle başlar. Belirli tarih bildiren ay ve gün adları büyüktür. Sayılar harf veya rakamla yazılabilir, birden fazla kelimeden oluşan sayılar ayrı yazılır. Üleştirme sayıları yazıyla belirtilir. Dört veya daha çok basamaklı sayılar üçlü gruplara ayrılarak yazılır ve aralarına nokta konur.

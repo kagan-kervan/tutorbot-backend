@@ -1,0 +1,3 @@
+Fizik: Elektrik ve Manyetizma - Elektriksel Potansiyel Enerji ve Elektriksel Potansiyel Özeti:
+
+Elektriksel potansiyel enerji, yükleri belirli bir mesafede tutmak için yapılan iştir (E = k⋅(q₁⋅q₂)/d). Aynı işaretli yüklerin enerjisi pozitif, zıt işaretli yüklerin enerjisi negatiftir. Bir noktanın elektrik potansiyeli, o noktadaki +1 birimlik yüke etkiyen potansiyel enerjidir (V = k⋅q/d). Toplam elektriksel potansiyel, her yükün o noktadaki potansiyellerinin toplamıdır.

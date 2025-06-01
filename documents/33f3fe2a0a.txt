@@ -1,0 +1,3 @@
+Matematik: İkinci Dereceden Bir Bilinmeyenli Denklemler Özeti:
+
+İkinci dereceden bir bilinmeyenli denklemler, a ≠ 0 olmak üzere ax² + bx + c = 0 biçimindeki denklemlerdir; burada a, b, c gerçek sayılardır. Bu denklemlerin en fazla iki kökü olabilir ve bu kökler denklemin çözüm kümesini oluşturur. Verilen bir denklemin ikinci dereceden olup olmadığını belirlemek için en büyük dereceli terimin x² olup olmadığına ba

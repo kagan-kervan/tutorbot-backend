@@ -1,0 +1,3 @@
+Compton Saçılması ve De Broglie Dalga Boyu: Işığın ve Maddenin İkili Doğası
+
+Compton olayı, X-ışını fotonunun bir elektrona çarparak enerjisinin bir kısmını elektrona aktarması ve saçılmasıdır. Bu olay, ışığın tanecikli yapısını destekler. De Broglie, maddesel parçacıkların da dalga gibi davranabileceğini ileri sürmüş ve her nesnenin kendine özgü bir dalga boyu olduğunu belirtmiştir (λ = h / p). Bu eşitlik, maddenin hem dalga (λ) hem de tanecik (p) karakterini ortaya koymaktadır. Işık, bazı olaylarda tanecik, bazılarında ise dalga özelliği gösterir.

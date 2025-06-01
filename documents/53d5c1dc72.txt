@@ -1,0 +1,3 @@
+Kimya: Fiziksel ve Kimyasal Değişimler Özeti:
+
+Fiziksel değişim, maddenin kimlik özelliği değişmeden boyut, şekil, fiziksel hâl gibi özelliklerinin değişmesidir; kimyasal yapısı ve formülü değişmez. Kimyasal değişim ise maddenin kimlik özelliğinin değişerek yeni maddeler oluşturmasıdır; iç yapısı, elektron düzeni ve formülü değişir. Fiziksel değişimlerde zayıf etkileşimler, kimyasal değişimlerde ise güçlü ve zayıf etkileşimler kopar veya oluşur.

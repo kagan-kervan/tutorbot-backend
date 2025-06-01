@@ -1,0 +1,3 @@
+Matematik: Basit Olayların Olasılıkları Özeti:
+
+Bir olayın olasılığı, o olayın eleman sayısının örnek uzayın eleman sayısına oranıdır. Olasılık değerleri 0 ile 1 arasında değişir. Olasılığı 0 olan olay imkansız, 1 olan olay kesindir. Ayrık iki olay A ve B için P(A veya B) = P(A) + P(B), ayrık olmayan iki olay için P(A veya B) = P(A) + P(B) - P(A∩B) olur. Bir A olayının tümleyeni A' olmak üzere, P(A) + P(A') = 1'dir.

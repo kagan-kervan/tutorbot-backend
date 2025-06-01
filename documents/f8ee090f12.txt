@@ -1,0 +1,3 @@
+Virajlarda Güvenli Dönüş Şartları: Sürtünme, Eğim ve Hız
+
+Araçların virajlarda güvenli dönüşü; merkezcil kuvvet, lastiklerin yol tutuşu, araç hızı ve dönüş yarıçapına bağlıdır. Yatay sürtünmeli virajlarda, güvenli dönüş için gerekli merkezcil kuvveti statik sürtünme kuvveti sağlar ve maksimum güvenli hız, sürtünme katsayısı, viraj yarıçapı ve yerçekimi ivmesi ile belirlenir (v = √(grk)). Eğimli virajlarda, yolun eğimi sürtünmeyi azaltarak güvenli dönüşü sağlar; bu durumda güvenli hız v = √(tanθgr) ile hesaplanır. Düşey duvarda motosiklet sürerken, sürtünme kuvveti ağırlığı dengeler ve merkezcil kuvvet duvarın tepki kuvvetiyle oluşur.

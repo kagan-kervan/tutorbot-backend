@@ -1,0 +1,3 @@
+Fizik: Kuvvet ve Hareket - İtme ve Çizgisel Momentum Arasındaki İlişki Özeti:
+
+İtme (I¶), bir kuvvetin etki ettiği süre boyunca uyguladığı etki olup, F¶⋅Δt ile ifade edilir ve vektörel bir büyüklüktür. Çizgisel momentum (P¶), bir cismin kütlesi ile hızının çarpımıdır (P¶ = m⋅v¶). Newton'ın 2. yasasına göre, itme momentum değişimine eşittir (I¶ = ΔP¶). Kuvvet-zaman grafiğinde alan, itmeyi (ve dolayısıyla momentum değişimini) verir.

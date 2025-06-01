@@ -1,0 +1,3 @@
+Matematik: Yüzde Problemleri Özeti:
+
+Yüzde problemlerinde kullanılan temel bağıntılar şunlardır: Bir A sayısının %x'i A*(x/100)'dür. Bir A sayısının %x'inin %y'si A*(x/100)(y/100)'dür. %a'sı Y olan sayıyı bulmak için X = Y(100/a) kullanılır. A sayısı B sayısının % kaçıdır sorusu için (A/B)*100 formülü uygulanır. Yüzde problemlerinde başlangıç değişkeni 100x olarak seçmek çözümü kolaylaştırır.

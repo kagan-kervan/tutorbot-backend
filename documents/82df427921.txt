@@ -1,0 +1,3 @@
+Kimya: Atomun Yapısı Özeti:
+
+Atom, bir elementin tüm özelliklerini taşıyan en küçük taneciğidir ve proton, elektron, nötron olmak üzere temel taneciklerden oluşur. Atom numarası (proton sayısı) aynı, kütle numarası (proton + nötron sayısı) farklı olan atomlara izotop, nötron sayısı aynı proton sayısı farklı olan atomlara izoton, kütle numaraları aynı olan atomlara izobar denir. Elektron sayıları ve dağılımları aynı olan taneciklere izoelektronik denir. Atom elektron alarak anyon, vererek katyon oluşturur.

@@ -1,0 +1,3 @@
+İmpuls Oluşumu ve İletimi: Nöronlar Arası İletişim
+
+Nöron, uyarıldığında zar potansiyelinde meydana gelen elektriksel ve kimyasal değişikliklere impuls denir. Hücre içi ve dışındaki iyon konsantrasyon farkı zar potansiyelini oluşturur. Sodyum-potasyum pompası, bu iyon dengesini korur. Bir uyarı, eşik değeri aşarsa, akson zarında depolarizasyon oluşur, bu durum aksiyon potansiyelini tetikler. Aksiyon potansiyeli akson boyunca ilerler ve sinapslarda nörotransmitter maddeler salgılanarak diğer nöronlara iletilir. Aksonlarda impuls iletimi elektriksel, sinapslarda ise kimyasaldır. Miyelin kılıf ve akson çapı impuls hızını etkiler.

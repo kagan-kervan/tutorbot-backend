@@ -1,0 +1,3 @@
+Madde Döngüleri: Su, Karbon ve Azot
+
+Madde döngüleri, doğada yaşamın sürekliliği için maddelerin (karbon, su, oksijen, azot vb.) devirli olarak kullanılmasıdır. Su döngüsü, güneş enerjisi ve yer çekimiyle atmosfer ve yeryüzü arasında gerçekleşir (buharlaşma, yoğuşma, yağış). Karbon döngüsü, atmosfer, okyanus, toprak ve canlılar arasında gerçekleşir (fotosentez, solunum, ayrışma, fosil yakıtların yanması). Azot döngüsü, atmosferdeki azotun canlılar tarafından kullanılabilir hale getirilmesi (azot fiksasyonu) ve tekrar atmosfere dönmesidir (amonyaklaşma, nitrifikasyon, denitrifikasyon).

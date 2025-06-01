@@ -1,0 +1,3 @@
+Fotoelektrik Olay: Fotonlar, Enerji ve Elektron Salınımı
+
+Fotoelektrik olay, ışığın tanecikli yapısını gösteren ve bir madde yüzeyine düşürülen fotonların elektron koparması şeklinde gerçekleşen bir olgudur. Fotonlar, yüksüz, kütlesiz ve kararlı enerji paketleridir. Bir metal yüzeyden elektron sökebilmek için fotonun enerjisinin metalin eşik enerjisine eşit veya daha büyük olması gerekir. Einstein'ın fotoelektrik denklemi (E_foton = E_bağlanma + E_kinetik), enerji korunumunu ifade eder ve kopan elektronların kinetik enerjisi ışığın frekansına bağlıdır. Fotosellerde kullanılan alkali metaller, düşük bağlanma enerjileri sayesinde görünür ışıkla elektron salınımını kolaylaştırır.

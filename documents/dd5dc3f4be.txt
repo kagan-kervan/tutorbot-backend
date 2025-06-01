@@ -1,0 +1,3 @@
+İki Fonksiyonun Bileşkesi: Tanım, Gösterim ve Özellikler
+
+Bileşke fonksiyon, A kümesindeki elemanları f ve g fonksiyonları aracılığıyla C kümesindeki elemanlarla eşleyen bir fonksiyondur. Eğer f: A → B ve g: B → C fonksiyonları verilmişse, x ∈ A için h(x) = g[f(x)] şeklinde tanımlanan h: A → C fonksiyonu f ve g'nin bileşkesidir ve g ο f : A → C, (g ο f)(x) = g[f(x)] şeklinde gösterilir. Bileşke fonksiyonlarda işlemler sağdan sola doğru yapılır. Bileşke işleminin değişme özelliği yoktur (f ο g ≠ g ο f), birim fonksiyonla bileşke kendisine eşittir (f ο I = I ο f = f) ve birleşme özelliği vardır (f ο (g ο h) = (f ο g) ο h).

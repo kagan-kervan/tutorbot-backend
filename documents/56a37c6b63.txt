@@ -1,0 +1,3 @@
+Matematik: Üstel ve Logaritmik Fonksiyonlar Özeti:
+
+Logaritma fonksiyonu, a ∈ ℝ⁺ - {1} olmak üzere, üstel fonksiyon f(x) = aˣ'in tersidir ve f⁻¹(x) = logₐx şeklinde ifade edilir. Logaritma fonksiyonunun tanımlı olabilmesi için g(x) > 0, g(x) ≠ 1 ve h(x) > 0 şartları sağlanmalıdır. Logaritma fonksiyonunun grafiği, taban a > 1 ise artan, 0 < a < 1 ise azalan bir eğri şeklindedir ve üstel fonksiyon ile y = x doğrusuna göre simetriktir.

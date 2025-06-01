@@ -1,0 +1,78 @@
+FİZİK
+KONU
+ELEKTRİK VE MANYETİZMA
+ÖZETİ
+AYT AYT AYT AYT AYT AYT AYT AYT AYT AYT AYT AYT
+MANYETİK AKI VE İNDÜKSİYON AKIMI
+MANYETİK AKI, MANYETİK AKI DEĞİŞİMİ VE İNDÜKSİYON AKIMI
+Manyetik alana dik bir yüzeyden geçen manyetik akı o yüzeyden geçen manyetik alan çizgilerinin sayısına bağlı bir gös-
+tergedir.
+Manyetik akı,
+α
+A
+ɸ= B A cos = 0˚ise cos0˚= 1 veɸ= B A (maksimum)
+α α
+DİKKAT
+, manyetik alan doğrultusu ile yüzeyin normali arasın-
+daki açıdır.
+α
+MANYETİK AKI MANYETİK ALAN YÜZEY ALANI
+Sembol B A
+Birim Tesla • Metre2 yɸa da Weber (Wb) Tesla Metre2
+NOT
+Bir yüzeydeki manyetik akıyı değiştirebilmek için
+= B A cos bağıntısındaki B, A, değerlerinden en
+az birini değiştirmek gerekir.
+ɸ ∙ ∙ α α
+PÜF NOKTA
+= 0˚ ise cos0˚ = 1 olduğundan manyetik akı maksimum;
+= 90˚ ise cos90˚ = 0 olduğundan manyetik akı minimum
+α
+değerini alır.
+α
+HATIRLAYALIM
+Basit bir elektrik devresinde elektrik akımının oluşabilme-
+si için iletkenin uçları arasında potansiyel farkın olması
+gerekir. İki nokta arasında elektriksel potansiyel farkı
+oluştuğunda elektromotor kuvvet kaynağı, elektronları
+düşük potansiyelden yüksek potansiyele doğru hareket
+ettirmeye zorlar. Birim yükün devreyi bir defa dolanması
+için gerekli enerji elektromotor kuvveti denir.
+FİZİK - AYT MEBİ KONU ÖZETLERİ 1
+
+MANYETİK AKI VE İNDÜKSİYON AKIMI
+Mıknatıs halkaya yaklaştırılıp uzaklaştırıldığında halka içindeki manyetik alan çizgi sayısı ve buna bağlı olarak manyetik
+akı değişir.
+Bu değişim,
+¢ = - bağıntısı ile hesaplanır.
+son ilk
+ɸ ɸ ɸ
+Halka içerisindeki manyetik akı değişimi halka üzerinde elektrik akımı oluşmasını sağlar.
+S N S N
+Akımın oluşması devrede bir elektromotor kuvvet oluştuğunun göstergesidir. Manyetik akı değişimi ile oluşan elektromotor
+kuvvete indüksiyon elektromotor kuvveti, oluşan akıma da indüksiyon akımı denir.
+PÜF NOKTA
+Manyetik akı değişimi ne kadar hızlı ise hem indüksiyon
+elektromotor kuvveti hem de indüksiyon akımı o kadar
+büyük olur.
+İletkenin kesitindeki manyetik akı değişimi iletken üzerinde bir indüksiyon elektromotor kuvveti ve dolayısı ile indüksiyon
+akımı oluşturur. (Faraday Kanunu) Oluşan bu elektromotor kuvveti kendisini doğuran nedene karşı koyacak yöndedir.
+Buna da Lenz Kanunu denir.
+Manyetik akı değişimi ile kapalı bir devre üzerinde oluşan indüksiyon emk sı;
+∆φ
+ε=− bağıntısı ile hesaplanır.
+∆t
+Çok sayıda halkadan oluşan akım makarasında da indüksiyon elektromotor kuvveti oluşabilir. Bu durumda N sarımlı akım
+makarası için oluşan indüksiyon elektromotor kuvvetin büyüklüğü,
+∆φ
+ε=−N bağıntısı ile hesaplanır.
+∆t
+PÜF NOKTA
+Bağıntılarda yer alan (-) işareti oluşan indüksiyon elektro-
+motor kuvvetinin kendisini oluşturan etkiye karşı koyacak
+yönde olduğunu gösterir.
+DİKKAT
+İndüksiyon elektromotor kuvvetin büyüklüğü hesaplanır-
+ken (-) işaretinin kullanılmasına gerek yoktur.
+2 MEBİ KONU ÖZETLERİ FİZİK - AYT
+

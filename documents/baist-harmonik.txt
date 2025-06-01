@@ -1,0 +1,3 @@
+Fizik: Basit Harmonik Hareket Özeti:
+
+Basit harmonik hareket (BHH), bir cismin denge noktası etrafında düzgün salınımıdır ve geri çağırıcı bir kuvvetle oluşur. Bu hareket, yay sarkacı ve basit sarkaçta görülür. BHH'nin temel kavramları arasında denge noktası, uzanım (x), periyot (T), frekans (f), genlik (r) ve geri çağırıcı kuvvet (F) bulunur. Konum denklemleri (x = r⋅cos(ωt), y = r⋅sin(ωt)), hız denklemi (ϑ = ω⋅√(r²-x²)) ve kuvvet denklemi (F = -mω²x) BHH'yi tanımlamak için kullanılır. BHH'de ivme ve geri çağırıcı kuvvet her zaman denge noktasına doğrudur.

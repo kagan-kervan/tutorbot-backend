@@ -1,0 +1,1 @@
+İçine fonksiyon, değer kümesinde eşleşmeyen elemanlar bulunduran fonksiyonlardır. Örten fonksiyon ise değer kümesindeki her elemanın tanım kümesinde bir karşılığı olan fonksiyonlardır. Bire bir fonksiyon, tanım kümesindeki her elemanın farklı bir görüntüye sahip olduğu fonksiyonlardır. Eşit fonksiyonlar ise aynı tanım kümesindeki her eleman için aynı değeri veren fonksiyonlardır.

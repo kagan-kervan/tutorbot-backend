@@ -1,0 +1,3 @@
+Dalga Mekaniği: Elektromanyetik Dalgalar - Özet
+
+Teleskoplar, evrenin anlaşılmasında önemli bir rol oynar. Elektromanyetik spektrum, radyo dalgalarından gama ışınlarına kadar farklı dalga boylarındaki dalgaları içerir. Elektromanyetik dalgalar, yüklü cisimlerin ivmeli hareketlerinden oluşur, enine dalgalardır, elektrik ve manyetik alan bileşenleri birbirine diktir, enerji frekansla doğru orantılıdır ve boşlukta ışık hızıyla yayılır. Bu dalgalar, haberleşme, tıbbi görüntüleme, ısıtma, güvenlik ve astronomi gibi çeşitli alanlarda kullanılır.

@@ -1,0 +1,3 @@
+Eşeye Bağlı Kalıtım ve Akraba Evliliği: Genetik Aktarım ve Riskler
+
+Eşeye bağlı kalıtım, eşey kromozomları (X ve Y) üzerinde taşınan genlerin kalıtımıdır. İnsanlarda dişiler XX, erkekler XY kromozomlarına sahiptir. X kromozomu üzerinde taşınan özellikler her iki cinsiyette de ortaya çıkabilirken, Y kromozomu üzerinde taşınan özellikler sadece erkeklerde görülür. Renk körlüğü ve hemofili gibi hastalıklar X kromozomuna bağlı çekinik genlerle taşınır. Akraba evliliği, aralarında kan bağı olan kişilerin evlenmesi olup, çekinik hastalık genlerinin bir araya gelme olasılığını artırarak genetik hastalıkların ortaya çıkma riskini yükseltir.

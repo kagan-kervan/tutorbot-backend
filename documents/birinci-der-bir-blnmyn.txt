@@ -1,0 +1,3 @@
+Matematik: Birinci Dereceden Bir Bilinmeyenli Denklemler Özeti:
+
+Birinci dereceden bir bilinmeyenli denklemler, ax + b = 0 şeklinde ifade edilen, a ve b'nin gerçek sayılar ve a ≠ 0 olduğu denklemlerdir. Denklemi sağlayan x değerine denklemin kökü denir ve çözüm kümesi (ÇK) ile gösterilir. Eğer a ≠ 0 ise ÇK = {-b/a} olur. Eğer a = 0 ve b = 0 ise ÇK = ℝ (tüm reel sayılar), eğer a = 0 ve b ≠ 0 ise ÇK = ∅ (boş küme) olur. Denklemler çözülürken eşitliğin her iki tarafına aynı işlemler uygulanır ve bulunan kökler denklemi sağlamalıdır.

@@ -1,0 +1,3 @@
+Birim ve Sabit Fonksiyonlar: Temel Tanımlar ve Özellikler
+
+Birim fonksiyon, bir A kümesinden yine A kümesine tanımlanan ve her elemanı kendisine eşleyen fonksiyondur; yani f(x) = x şeklinde ifade edilir ve grafik üzerindeki tüm elemanlar (x, x) biçimindedir. Sabit fonksiyon ise, tanım kümesindeki tüm elemanları değer kümesindeki yalnızca bir elemana eşleyen fonksiyondur; yani f(x) = c şeklindedir ve kuralında değişken (x) bulunmaz. f(x) = (ax + b) / (cx + d) şeklindeki bir fonksiyonun sabit fonksiyon olabilmesi için a/c = b/d eşitliğinin sağlanması gerekir.

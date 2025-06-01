@@ -1,0 +1,3 @@
+İşçi Problemleri: Temel Yaklaşımlar ve Çözüm Yolları
+
+İşçi problemlerinde, bir işçinin birim zamanda yaptığı iş miktarı üzerinden hesaplamalar yapılır. Bir işçi bir işin tamamını x günde yaparsa, bir günde işin 1/x'ini yapar. Birden fazla işçinin birlikte çalıştığı durumlarda, her bir işçinin birim zamanda yaptığı iş miktarı toplanarak, işin ne kadar sürede tamamlanacağı hesaplanır. Ters orantı ve EKOK gibi matematiksel kavramlar, bu tür problemlerin çözümünde sıklıkla kullanılır.

@@ -1,0 +1,3 @@
+Kosinüs Teoremi: Kenarlar ve Açılar Arasındaki İlişki
+
+Kosinüs teoremi, bir ABC üçgeninde kenarlar ve açılar arasındaki ilişkiyi ifade eder: a² = b² + c² - 2bc * cosA, b² = a² + c² - 2ac * cosB, c² = a² + b² - 2ab * cosC. Bu teoremler, bir üçgenin kenar uzunlukları ve bir açısı biliniyorsa, diğer kenar uzunluğunu veya açıyı bulmak için kullanılır. Kosinüs teoremi, geometrik problemlerin çözümünde önemli bir araçtır.

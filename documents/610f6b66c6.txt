@@ -1,0 +1,3 @@
+Fizik: Dalga Mekaniği - Işığın Dalga Doğası ve Doppler Olayı Özeti:
+
+Işığın dalga doğası, çift yarıkta girişim deneyi, sapma, renklenmeler ve Newton halkaları gibi olaylarla kanıtlanmıştır. Doppler olayı ise, kaynak ve gözlemci arasındaki bağıl hareket nedeniyle dalgaların frekansında ve dalga boyunda meydana gelen değişikliktir. Bu olay, tıpta kan akışını ölçmede, astronomide yıldızların hareketlerini incelemede ve trafikte araç hızını tespit etmede kullanılır.

@@ -1,0 +1,3 @@
+Elementlerin Periyodik Sistemdeki Yerleşimi: Grup, Periyot ve Elektron Dizilimi
+
+Elementlerin periyodik sistemdeki yerleşim esasları, artan atom numarasına göre sıralanmalarıdır. Periyodik cetvel, yatay sıralar olan periyotlar ve düşey sütunlar olan gruplardan oluşur. 18 grup ve 7 periyot bulunur. Gruplar, harf ve sayı (A/B) veya IUPAC'a göre yalnız numara (1-18) ile adlandırılır. Elementlerin periyodik sistemdeki yeri, atom numarası ve elektron dizilimi ile belirlenir. Katman sayısı periyot numarasını, değerlik elektronu sayısı ise grup numarasını verir.

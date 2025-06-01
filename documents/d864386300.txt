@@ -1,0 +1,3 @@
+Temel İşlemler: Gerçek Sayılarda Toplama, Çarpma ve İşlem Önceliği
+
+Bu özet, gerçek sayılar kümesindeki toplama ve çarpma işlemlerinin temel özelliklerini (kapalılık, değişme, birleşme, birim eleman, ters eleman, yutan eleman) ve çarpma işleminin toplama/çıkarma üzerine dağılma özelliğini açıklamaktadır. Ayrıca, pozitif ve negatif sayılarla yapılan çarpma ve bölme işlemlerinin işaret kuralları ile matematiksel işlemlerdeki öncelik sırası (üs alma, parantez içi, çarpma/bölme, toplama/çıkarma) vurgulanmaktadır. Art arda gelen toplama/çıkarma veya çarpma/bölme işlemlerinde dikkat edilmesi gereken noktalar belirtilmiştir.

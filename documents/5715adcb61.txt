@@ -1,0 +1,3 @@
+Biyoloji: Nükleik Asitler Özeti:
+
+Nükleik asitler (DNA ve RNA), canlıların genetik bilgisini taşıyan ve metabolik olayları yöneten moleküllerdir. Yapı birimleri nükleotitlerdir. Nükleotitler, azotlu organik baz (adenin, guanin, sitozin, timin/urasil), 5 karbonlu şeker (deoksiriboz/riboz) ve fosfat grubundan oluşur. DNA çift zincirli sarmal yapıda olup, adenin karşısında timin, guanin karşısında sitozin bulunur. RNA tek zincirlidir, timin yerine urasil içerir ve protein sentezinde görev alır (mRNA, tRNA, rRNA).

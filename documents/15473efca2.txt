@@ -1,0 +1,3 @@
+Fizik: Kuvvet ve Hareket - Serbest Düşme ve Hava Direnç Kuvveti Özeti:
+
+Hava direncinin olmadığı ortamda serbest düşme, yer çekimi etkisiyle gerçekleşen düzgün hızlanma hareketidir. Hız (v = gt), yer değiştirme (h = 1/2 gt²) ve zamansız hız (v² = 2gh) denklemleriyle ifade edilir. Hava direnci olan ortamlarda ise, cisme etki eden direnç kuvveti (Fd = KAv²) hıza bağlıdır ve bir süre sonra ağırlıkla dengelenerek limit hıza (v_limit = √(mg/KA)) ulaşılır.

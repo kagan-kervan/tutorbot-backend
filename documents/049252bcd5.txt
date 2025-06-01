@@ -1,0 +1,3 @@
+Türkçe: Noktalama İşaretleri 1 Özeti:
+
+Nokta (.) bitmiş cümlelerin sonuna, kısaltmalara, sıra sayılarına, tarihleri ve saatleri ayırmada, matematiksel işlemlerde kullanılır. Virgül (,) eş görevli kelime ve kelime gruplarını, sıralı cümleleri, ara sözleri ayırır, hitaplardan sonra, anlam karışıklığını gidermede, onayı belirtmede ve kesirli sayılarda kullanılır. Noktalı virgül (;) virgülle ayrılmış türleri ve takımları ayırmada, öğeleri arasında virgül bulunan sıralı cümleleri ayırmada ve özneden sonra kullanılabilir.

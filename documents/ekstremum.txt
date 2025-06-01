@@ -1,0 +1,3 @@
+Fonksiyonlarda Ekstremum Noktaları: Yerel ve Mutlak Değerler
+
+Bir fonksiyonun (a, b) aralığındaki en büyük değeri f(x₀) ise, (x₀, f(x₀)) noktası yerel maksimum noktasıdır. Tanımlı olduğu aralıktaki en büyük değeri aldığı nokta ise mutlak maksimum noktasıdır. Benzer şekilde, en küçük değeri f(x₀) ise (x₀, f(x₀)) noktası yerel minimum noktasıdır ve tanımlı olduğu aralıktaki en küçük değeri aldığı nokta mutlak minimum noktasıdır. Yerel maksimum ve minimum noktalara genel olarak ekstremum noktaları denir. Ekstremum noktalarında türev sıfır olabilir, ancak türevin sıfır olması ekstremum nokta olduğu anlamına gelmez; ayrıca, kırılma noktalarında türev olmamasına rağmen ekstremum nokta olabilir.

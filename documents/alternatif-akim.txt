@@ -1,0 +1,3 @@
+Alternatif Akım: Özet
+
+Alternatif akım (AA), zamanla yönü ve şiddeti değişen akımdır ve alternatörler aracılığıyla üretilir. AA, doğru akıma (DA) göre daha verimli üretilir ve maliyeti düşüktür, ancak elektroliz ve akü şarjı gibi uygulamalarda DA gereklidir. AA devrelerinde gerilim ve akımın etkin değerleri kullanılır. Direnç (R), indüktans (L) ve kapasitans (C) AA devrelerinde akıma karşı farklı zorluklar gösterir. Empedans (Z), AA devrelerindeki toplam direncin eşdeğeridir. Rezonans, indüktif ve kapasitif reaktansların eşitlendiği durumda akımın maksimum olduğu durumdur.

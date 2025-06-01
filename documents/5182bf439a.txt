@@ -1,0 +1,3 @@
+Kimya: Asitlerin ve Bazların Özellikleri Özeti:
+
+Asitlerin ve bazların özelliklerini belirlemek için pH kavramı kullanılır; 25°C'de pH < 7 ise asidik, pH = 7 ise nötr, pH > 7 ise baziktir. Ortamın asitliği veya bazlığı hakkında bilgi veren maddelere indikatör denir. Asitler suda çözündüklerinde H⁺ iyonu, bazlar ise OH⁻ iyonu verir. Asitlerin tadı ekşi, bazların tadı acıdır. Hem asitler hem de bazlar tahriş edici özellik gösterir ve sulu çözeltileri elektrik akımını iletir.

@@ -1,0 +1,3 @@
+Kimyasal Tepkimelerde Hesaplamalar: Miktar, Verim ve Formül Belirleme
+
+Kimyasal tepkimelerde hesaplamalar, kontrollü tepkimelerde ürün miktarını, reaksiyon verimini, reaktif miktarını ve artan madde olup olmadığını belirlemeyi amaçlar. Hesaplamaların doğru yapılabilmesi için tepkimenin doğru denkleştirilmesi esastır. Tepkimedeki türlerden birinin miktarının verilmesi, aynı anda oluşan tepkimeler, atom ve molekül kütlesi hesabı, bileşik formülü bulma, artan maddeli tepkimeler ve yüzde verim hesaplamaları gibi farklı senaryolarda çeşitli yöntemler kullanılır. Sınırlayıcı bileşen, ürün miktarını belirlemede kritik öneme sahiptir ve hesaplamalar bu bileşene göre yapılır.
